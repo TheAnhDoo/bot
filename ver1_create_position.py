@@ -13,10 +13,10 @@ from dataclasses import dataclass
 
 @dataclass
 class TradeConfig:
-    SYMBOL: str = "LTC-USDT"
-    SYMBOL_LOWER: str = "ltcusdt"
-    PRICE_DIFF_THRESHOLD: float = 0.1  # % difference to trigger trade
-    POSITION_SIZE: float = 0.1  # Trade size
+    SYMBOL: str = "RARE-USDT"
+    SYMBOL_LOWER: str = "rareusdt"
+    PRICE_DIFF_THRESHOLD: float = 4  # % difference to trigger trade
+    POSITION_SIZE: float = 23.5  # Trade size
     TRADE_COOLDOWN: int = 5  # Cooldown in seconds
     MAX_RETRIES: int = 3
     RECONNECT_DELAY: int = 5

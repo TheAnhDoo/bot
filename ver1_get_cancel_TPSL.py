@@ -4,33 +4,72 @@ import hmac
 import requests
 import json
 
-# API credentials
+# API Credentials
 API_KEY = "DcYvbavAYfA3oO44wuvDqJzj6FVoiL5lGhPqr8gkfVaJKz8r8x4EAsoiEsai0yaOPUuKrtqXhG1HeImjH8Xcw"
 SECRET_KEY = "YywDSqUaOYTEUoyZsdkyws1Kbxrd6TDU1WJRGjZ5YTtLe8twTy6wa8BEQnQsxEV1nxak3m5U3ER8O0kfQlmw"
 
-# BingX API endpoints
+# BingX API Endpoints
 BASE_URL = "https://open-api.bingx.com"
 GET_OPEN_ORDERS = "/openApi/swap/v2/trade/openOrders"
-CANCEL_ORDER = "/openApi/swap/v2/trade/order"  # ✅ Updated to correct endpoint
+CANCEL_REPLACE_ORDER = "/openApi/swap/v1/trade/cancelReplace"
+GET_POSITIONS = "/openApi/swap/v2/user/positions"
 
-# Symbol (Change as needed)
+# Symbol (Modify as needed)
 SYMBOL = "LTC-USDT"
 
+# ✅ Hardcoded TP & SL values
+NEW_TP_PRICE = 110  # Modify this as needed
+NEW_SL_PRICE = 89.0  # Modify this as needed
+
 def get_timestamp():
-    """Returns current timestamp in milliseconds."""
-    return str(int(time.time() * 1000))
+    return int(time.time() * 1000)
 
 def generate_signature(params):
-    """Generates HMAC SHA256 signature with sorted parameters."""
-    sorted_params = sorted(params.items())  # Ensure consistent order
+    sorted_params = sorted(params.items())
     query_string = "&".join([f"{k}={v}" for k, v in sorted_params])
     
     return hmac.new(
         SECRET_KEY.encode(), query_string.encode(), hashlib.sha256
     ).hexdigest()
 
+def get_open_positions():
+    params = {
+        "symbol": SYMBOL,
+        "timestamp": get_timestamp()
+    }
+    params["signature"] = generate_signature(params)
+    
+    headers = {"X-BX-APIKEY": API_KEY}
+    
+    try:
+        response = requests.get(BASE_URL + GET_POSITIONS, headers=headers, params=params)
+        response.raise_for_status()
+        data = response.json()
+
+        if data.get("code") != 0:
+            print(f"API Error: {data.get('msg', 'Unknown error')}")
+            return None
+        
+    except requests.exceptions.RequestException as e:
+        print(f"Request error: {e}")
+        return None
+    except json.JSONDecodeError:
+        print("Error decoding JSON:", response.text)
+        return None
+
+    positions = data.get("data", [])
+    
+    if not isinstance(positions, list):
+        print("⚠️ Unexpected API response format.")
+        return None
+
+    if not positions:
+        print("⚠️ No open positions found.")
+        return None
+    
+    return positions[0]  # Assume only one position per symbol
+
 def get_open_orders():
-    """Fetches open orders and filters only SL & TP orders."""
     params = {
         "symbol": SYMBOL,
         "timestamp": get_timestamp()
@@ -41,7 +80,7 @@ def get_open_orders():
     
     try:
         response = requests.get(BASE_URL + GET_OPEN_ORDERS, headers=headers, params=params)
-        response.raise_for_status()  # Raise error for HTTP issues
+        response.raise_for_status()
         data = response.json()
         
         if data.get("code") != 0:
@@ -55,10 +94,8 @@ def get_open_orders():
         print("Error decoding JSON:", response.text)
         return []
 
-    # Ensure 'data' and 'orders' exist before accessing them
     orders = data.get("data", {}).get("orders", [])
 
-    # Extract order IDs safely
     order_ids = [
         {"orderId": order.get("orderId"), "type": order.get("type")}
         for order in orders
@@ -68,27 +105,31 @@ def get_open_orders():
     print("Open SL/TP Orders:", order_ids)
     return order_ids
 
-def cancel_order(order_id):
-    """Cancels a given order by order ID using DELETE request."""
+def cancel_replace_order(order_id, new_order_params):
     params = {
+        "cancelReplaceMode": "STOP_ON_FAILURE",
+        "cancelOrderId": order_id,
         "symbol": SYMBOL,
-        "orderId": order_id,
+        "side": new_order_params["side"],
+        "positionSide": new_order_params["positionSide"],
+        "type": new_order_params["type"],  
+        "quantity": new_order_params["quantity"],  
+        "stopPrice": new_order_params["stopPrice"],  
         "timestamp": get_timestamp()
     }
     
-    params_str = "&".join([f"{k}={v}" for k, v in sorted(params.items())])
-    signature = generate_signature(params)
+    params["signature"] = generate_signature(params)
     
-    url = f"{BASE_URL}{CANCEL_ORDER}?{params_str}&signature={signature}"
+    url = f"{BASE_URL}{CANCEL_REPLACE_ORDER}"
     headers = {"X-BX-APIKEY": API_KEY}
     
     try:
-        response = requests.delete(url, headers=headers)
+        response = requests.post(url, headers=headers, json=params)
         response.raise_for_status()
         data = response.json()
         
         if data.get("code") != 0:
-            print(f"Cancel Order Error: {data.get('msg', 'Unknown error')}")
+            print(f"❌ Cancel & Replace Order Error: {data.get('msg', 'Unknown error')}")
         
         return data
     
@@ -100,7 +141,19 @@ def cancel_order(order_id):
         return None
 
 def main():
-    """Main function to cancel SL & TP orders."""
+    open_positions = get_open_positions()
+    
+    if not open_positions:
+        print("⚠️ No open positions detected.")
+        return
+    
+    position_side = open_positions.get("positionSide", "LONG")
+    quantity = float(open_positions.get("positionAmt", 0))
+
+    if quantity == 0:
+        print("⚠️ No open position size detected.")
+        return
+    
     open_orders = get_open_orders()
     
     if not open_orders:
@@ -110,10 +163,19 @@ def main():
     for order in open_orders:
         order_id = order["orderId"]
         order_type = order["type"]
-        print(f"\nCancelling {order_type} Order ID: {order_id}...")
-        
-        result = cancel_order(order_id)
-        print(f"Cancel Result: {result}")
+        print(f"\n🔄 Cancelling & Replacing {order_type} Order ID: {order_id}...")
+
+        # ✅ Use predefined TP/SL values
+        new_order_params = {
+            "type": order_type,  
+            "quantity": quantity,
+            "stopPrice": NEW_TP_PRICE if order_type == "TAKE_PROFIT_MARKET" else NEW_SL_PRICE,
+            "side": "SELL" if position_side == "LONG" else "BUY",
+            "positionSide": position_side
+        }
+
+        result = cancel_replace_order(order_id, new_order_params)
+        print(f"✅ Cancel & Replace Result: {result}")
 
 if __name__ == "__main__":
     main()
