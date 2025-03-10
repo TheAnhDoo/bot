@@ -1,4 +1,4 @@
-# Trading Bot
+# BiSu Trading Bot
 
 A Python-based trading bot that monitors price differences between Binance and BingX exchanges and executes trades based on configurable parameters. The bot uses WebSocket connections to get real-time mark prices and executes trades when price differences exceed a specified threshold.
 
