@@ -1,0 +1,1788 @@
+2025-03-09 21:24:49,596 - INFO - 🔹 Starting Trading Bot...
+2025-03-09 21:24:49,997 - INFO - Websocket connected
+2025-03-09 21:24:49,998 - INFO - [Binance] Connected
+2025-03-09 21:24:50,015 - INFO - Websocket connected
+2025-03-09 21:24:50,427 - INFO - [BingX] Price Updated: 98.82
+2025-03-09 21:24:50,465 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:24:50,465 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:24:51,436 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:52,929 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:53,931 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:53,962 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:55,431 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:55,456 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:57,007 - INFO - [BingX] Price Updated: 98.82
+2025-03-09 21:24:57,007 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:57,007 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:57,008 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:58,432 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:58,445 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:58,970 - INFO - [BingX] Price Updated: 98.82
+2025-03-09 21:24:59,925 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:24:59,967 - INFO - [BingX] Price Updated: 98.82
+2025-03-09 21:24:59,968 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:00,961 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:02,022 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:02,022 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:02,022 - INFO - [BingX] Price Updated: 98.86
+2025-03-09 21:25:02,934 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:02,948 - INFO - [BingX] Price Updated: 98.86
+2025-03-09 21:25:02,965 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:02,972 - INFO - [BingX] Price Updated: 98.86
+2025-03-09 21:25:04,429 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:06,436 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:06,452 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:07,427 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:07,465 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:08,428 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:09,930 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:10,443 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:10,937 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:10,958 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:11,945 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:11,979 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:12,429 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:12,458 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:12,458 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:13,418 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:13,948 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:15,028 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:15,499 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:16,440 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:16,469 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:17,452 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:17,459 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:17,932 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:18,441 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:19,444 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:19,448 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:19,939 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:19,960 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:20,432 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:20,933 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:21,431 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:21,938 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:21,957 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:22,441 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:23,429 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:23,935 - INFO - [BingX] Price Updated: 98.84
+2025-03-09 21:25:23,957 - INFO - [BingX] Price Updated: 98.85
+2025-03-09 21:25:24,931 - INFO - [BingX] Price Updated: 98.87
+2025-03-09 21:25:25,455 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:26,432 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:27,011 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:27,011 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:27,012 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:27,012 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:27,930 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:27,941 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:27,970 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:28,444 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:28,457 - INFO - [BingX] Price Updated: 98.89
+2025-03-09 21:25:28,944 - INFO - [BingX] Price Updated: 98.87
+2025-03-09 21:25:29,933 - INFO - [BingX] Price Updated: 98.86
+2025-03-09 21:25:29,965 - INFO - [BingX] Price Updated: 98.86
+2025-03-09 21:25:30,779 - INFO - [BingX] Price Updated: 98.86
+2025-03-09 21:25:30,805 - INFO - [BingX] Price Updated: 98.86
+2025-03-09 21:25:31,999 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:32,004 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:32,015 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:32,438 - INFO - [BingX] Price Updated: 98.83
+2025-03-09 21:25:32,940 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:32,970 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:32,970 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:33,433 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:34,436 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:34,467 - INFO - [BingX] Price Updated: 98.79
+2025-03-09 21:25:35,437 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:35,468 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:35,468 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:35,470 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:36,435 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:36,461 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:36,462 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:37,930 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:37,960 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:38,432 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:38,462 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:38,936 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:40,454 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:41,939 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:42,421 - INFO - 
+🔻 Stopping Trading Bot...
+2025-03-09 21:25:42,937 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:43,426 - INFO - ✅ Stopped.
+2025-03-09 21:25:43,437 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:44,438 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:45,909 - INFO - 🔹 Starting Trading Bot...
+2025-03-09 21:25:46,216 - INFO - Websocket connected
+2025-03-09 21:25:46,348 - INFO - Websocket connected
+2025-03-09 21:25:46,349 - INFO - [Binance] Connected
+2025-03-09 21:25:46,446 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:46,467 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:46,468 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:46,468 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:46,473 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:47,938 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:47,964 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:47,965 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:48,430 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:48,473 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:48,938 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:48,972 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:48,972 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:49,846 - INFO - 
+🔻 Stopping Trading Bot...
+2025-03-09 21:25:49,941 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:50,973 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:51,479 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:51,930 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:52,434 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:53,434 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:54,450 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:54,460 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:25:54,942 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:54,953 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:55,477 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:25:56,440 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:56,470 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:56,935 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:56,967 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:56,968 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:56,981 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:56,984 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:57,964 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:58,449 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:58,459 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:58,932 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:59,006 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:59,006 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:25:59,822 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:00,442 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:00,480 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:00,481 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:00,481 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:01,440 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:01,936 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:02,437 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:02,459 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:02,460 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:04,440 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:04,465 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:04,465 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:04,643 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:05,514 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:05,988 - INFO - [BingX] Price Updated: 98.67
+2025-03-09 21:26:05,989 - INFO - [BingX] Price Updated: 98.66
+2025-03-09 21:26:05,989 - INFO - [BingX] Price Updated: 98.67
+2025-03-09 21:26:06,443 - INFO - [BingX] Price Updated: 98.67
+2025-03-09 21:26:08,440 - INFO - [BingX] Price Updated: 98.63
+2025-03-09 21:26:08,465 - INFO - [BingX] Price Updated: 98.62
+2025-03-09 21:26:11,445 - INFO - [BingX] Price Updated: 98.74
+2025-03-09 21:26:11,465 - INFO - [BingX] Price Updated: 98.74
+2025-03-09 21:26:11,479 - INFO - [BingX] Price Updated: 98.74
+2025-03-09 21:26:13,950 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:14,942 - INFO - [BingX] Price Updated: 98.75
+2025-03-09 21:26:15,438 - INFO - [BingX] Price Updated: 98.75
+2025-03-09 21:26:15,935 - INFO - [BingX] Price Updated: 98.75
+2025-03-09 21:26:15,970 - INFO - [BingX] Price Updated: 98.75
+2025-03-09 21:26:16,437 - INFO - [BingX] Price Updated: 98.75
+2025-03-09 21:26:16,938 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:16,939 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:26:19,943 - INFO - [BingX] Price Updated: 98.77
+2025-03-09 21:26:21,442 - INFO - [BingX] Price Updated: 98.8
+2025-03-09 21:26:22,437 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:26:22,472 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:26:22,472 - INFO - [BingX] Price Updated: 98.78
+2025-03-09 21:26:24,472 - INFO - [BingX] Price Updated: 98.75
+2025-03-09 21:26:25,476 - INFO - [BingX] Price Updated: 98.75
+2025-03-09 21:27:38,440 - INFO - 🔹 Starting Trading Bot...
+2025-03-09 21:27:38,732 - INFO - Websocket connected
+2025-03-09 21:27:38,733 - INFO - [BingX] WebSocket Connected
+2025-03-09 21:27:38,974 - INFO - Websocket connected
+2025-03-09 21:27:38,975 - INFO - [Binance] WebSocket Connected
+2025-03-09 21:27:39,492 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:27:41,451 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:27:41,471 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:27:42,013 - INFO - [Binance] Mark Price Updated: 98.52000000
+2025-03-09 21:27:44,207 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:27:44,207 - INFO - [Price Compare] Binance: 98.52000000 | BingX: 98.56000000 | Diff: 0.0406% | Time: 21:27:44.207
+2025-03-09 21:27:44,964 - INFO - [BingX] Price Updated: 98.55000000
+2025-03-09 21:27:45,013 - INFO - [Binance] Mark Price Updated: 98.51000000
+2025-03-09 21:27:48,017 - INFO - [Binance] Mark Price Updated: 98.48000000
+2025-03-09 21:27:48,018 - INFO - [Price Compare] Binance: 98.48000000 | BingX: 98.55000000 | Diff: 0.0711% | Time: 21:27:48.018
+2025-03-09 21:27:48,019 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:27:48,019 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:27:49,962 - INFO - 
+🔻 Stopping Trading Bot...
+2025-03-09 21:27:50,061 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:27:50,063 - INFO - [Price Compare] Binance: 98.48000000 | BingX: 98.52000000 | Diff: 0.0406% | Time: 21:27:50.062
+2025-03-09 21:27:50,966 - INFO - ✅ Stopped.
+2025-03-09 21:27:51,018 - INFO - [Binance] Mark Price Updated: 98.47000000
+2025-03-09 21:27:51,448 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:27:51,448 - INFO - [Price Compare] Binance: 98.47000000 | BingX: 98.52000000 | Diff: 0.0508% | Time: 21:27:51.448
+2025-03-09 21:27:51,951 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:04,355 - INFO - 🔹 Starting Trading Bot...
+2025-03-09 21:28:04,672 - INFO - Websocket connected
+2025-03-09 21:28:04,673 - INFO - [BingX] WebSocket Connected
+2025-03-09 21:28:04,721 - INFO - Websocket connected
+2025-03-09 21:28:04,722 - INFO - [Binance] WebSocket Connected
+2025-03-09 21:28:04,956 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:28:05,484 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:28:06,028 - INFO - [Binance] Mark Price Updated: 98.48000000
+2025-03-09 21:28:06,029 - INFO - [Price Compare] Binance: 98.48000000 | BingX: 98.53000000 | Diff: 0.0508% | Time: 21:28:06.029
+2025-03-09 21:28:06,455 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:07,459 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:07,460 - INFO - [Price Compare] Binance: 98.48000000 | BingX: 98.52000000 | Diff: 0.0406% | Time: 21:28:07.460
+2025-03-09 21:28:07,502 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:08,455 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:28:08,478 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:08,478 - INFO - [Price Compare] Binance: 98.48000000 | BingX: 98.52000000 | Diff: 0.0406% | Time: 21:28:08.478
+2025-03-09 21:28:09,009 - INFO - [BingX] Price Updated: 98.55000000
+2025-03-09 21:28:09,018 - INFO - [Binance] Mark Price Updated: 98.49995859
+2025-03-09 21:28:09,456 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:28:09,960 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:28:09,961 - INFO - [Price Compare] Binance: 98.49995859 | BingX: 98.57000000 | Diff: 0.0711% | Time: 21:28:09.961
+2025-03-09 21:28:09,962 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:28:10,959 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:10,969 - INFO - [BingX] Price Updated: 98.59000000
+2025-03-09 21:28:10,970 - INFO - [Price Compare] Binance: 98.49995859 | BingX: 98.59000000 | Diff: 0.0914% | Time: 21:28:10.970
+2025-03-09 21:28:11,454 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:11,467 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:11,488 - INFO - [BingX] Price Updated: 98.59000000
+2025-03-09 21:28:12,004 - INFO - [BingX] Price Updated: 98.58000000
+2025-03-09 21:28:12,005 - INFO - [Price Compare] Binance: 98.49995859 | BingX: 98.58000000 | Diff: 0.0813% | Time: 21:28:12.005
+2025-03-09 21:28:12,024 - INFO - [Binance] Mark Price Updated: 98.52000000
+2025-03-09 21:28:14,596 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:14,596 - INFO - [Price Compare] Binance: 98.52000000 | BingX: 98.60000000 | Diff: 0.0812% | Time: 21:28:14.596
+2025-03-09 21:28:14,623 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:15,036 - INFO - [Binance] Mark Price Updated: 98.55000000
+2025-03-09 21:28:15,461 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:15,509 - INFO - [BingX] Price Updated: 98.59000000
+2025-03-09 21:28:15,522 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:16,466 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:16,466 - INFO - [Price Compare] Binance: 98.55000000 | BingX: 98.60000000 | Diff: 0.0507% | Time: 21:28:16.466
+2025-03-09 21:28:16,481 - INFO - [BingX] Price Updated: 98.59000000
+2025-03-09 21:28:16,960 - INFO - [BingX] Price Updated: 98.58000000
+2025-03-09 21:28:18,123 - INFO - [Binance] Mark Price Updated: 98.53000000
+2025-03-09 21:28:18,124 - INFO - [Price Compare] Binance: 98.53000000 | BingX: 98.58000000 | Diff: 0.0507% | Time: 21:28:18.124
+2025-03-09 21:28:18,456 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:28:18,478 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:28:19,466 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:28:19,466 - INFO - [Price Compare] Binance: 98.53000000 | BingX: 98.56000000 | Diff: 0.0304% | Time: 21:28:19.466
+2025-03-09 21:28:19,495 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:28:20,460 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:28:20,480 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:28:20,480 - INFO - [Price Compare] Binance: 98.53000000 | BingX: 98.57000000 | Diff: 0.0406% | Time: 21:28:20.480
+2025-03-09 21:28:21,014 - INFO - [Binance] Mark Price Updated: 98.52000000
+2025-03-09 21:28:21,461 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:28:21,969 - INFO - [BingX] Price Updated: 98.59000000
+2025-03-09 21:28:21,969 - INFO - [Price Compare] Binance: 98.52000000 | BingX: 98.59000000 | Diff: 0.0711% | Time: 21:28:21.969
+2025-03-09 21:28:22,452 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:22,954 - INFO - [BingX] Price Updated: 98.60000000
+2025-03-09 21:28:24,022 - INFO - [Binance] Mark Price Updated: 98.54000000
+2025-03-09 21:28:24,023 - INFO - [Price Compare] Binance: 98.54000000 | BingX: 98.60000000 | Diff: 0.0609% | Time: 21:28:24.023
+2025-03-09 21:28:24,459 - INFO - [BingX] Price Updated: 98.58000000
+2025-03-09 21:28:24,485 - INFO - [BingX] Price Updated: 98.58000000
+2025-03-09 21:28:25,472 - INFO - [BingX] Price Updated: 98.58000000
+2025-03-09 21:28:25,472 - INFO - [Price Compare] Binance: 98.54000000 | BingX: 98.58000000 | Diff: 0.0406% | Time: 21:28:25.472
+2025-03-09 21:28:25,496 - INFO - [BingX] Price Updated: 98.56000000
+2025-03-09 21:28:27,016 - INFO - [Binance] Mark Price Updated: 98.52000000
+2025-03-09 21:28:27,017 - INFO - [Price Compare] Binance: 98.52000000 | BingX: 98.56000000 | Diff: 0.0406% | Time: 21:28:27.017
+2025-03-09 21:28:27,465 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:28:29,957 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:29,957 - INFO - [Price Compare] Binance: 98.52000000 | BingX: 98.52000000 | Diff: 0.0000% | Time: 21:28:29.957
+2025-03-09 21:28:30,015 - INFO - [Binance] Mark Price Updated: 98.49000000
+2025-03-09 21:28:30,463 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:31,464 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:31,465 - INFO - [Price Compare] Binance: 98.49000000 | BingX: 98.52000000 | Diff: 0.0305% | Time: 21:28:31.465
+2025-03-09 21:28:32,052 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:32,090 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:32,456 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:32,969 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:32,969 - INFO - [Price Compare] Binance: 98.49000000 | BingX: 98.52000000 | Diff: 0.0305% | Time: 21:28:32.969
+2025-03-09 21:28:32,974 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:32,985 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:33,016 - INFO - [Binance] Mark Price Updated: 98.45000000
+2025-03-09 21:28:34,097 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:34,098 - INFO - [Price Compare] Binance: 98.45000000 | BingX: 98.52000000 | Diff: 0.0711% | Time: 21:28:34.098
+2025-03-09 21:28:34,960 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:35,478 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:35,479 - INFO - [Price Compare] Binance: 98.45000000 | BingX: 98.52000000 | Diff: 0.0711% | Time: 21:28:35.479
+2025-03-09 21:28:35,489 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:35,490 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:36,017 - INFO - [Binance] Mark Price Updated: 98.41000000
+2025-03-09 21:28:37,953 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:37,953 - INFO - [Price Compare] Binance: 98.41000000 | BingX: 98.52000000 | Diff: 0.1118% | Time: 21:28:37.953
+2025-03-09 21:28:37,953 - INFO - 🔍 SHORT Signal: BingX price is higher by 0.1118%
+2025-03-09 21:28:37,953 - INFO - 🚀 Creating SHORT position at 98.52000000 on BingX...
+2025-03-09 21:28:38,490 - INFO - ✅ Order Successful: {'order': {'orderId': 1898742730068287488, 'orderID': '1898742730068287488', 'symbol': 'LTC-USDT', 'positionSide': 'SHORT', 'side': 'SELL', 'type': 'MARKET', 'price': 0, 'quantity': 0.1, 'stopPrice': 0, 'workingType': 'MARK_PRICE', 'clientOrderID': '', 'clientOrderId': '', 'timeInForce': 'GTC', 'priceRate': 0, 'stopLoss': '', 'takeProfit': '', 'reduceOnly': False, 'activationPrice': 0, 'closePosition': '', 'stopGuaranteed': '', 'status': 'FILLED', 'avgPrice': '98.45'}}
+2025-03-09 21:28:38,492 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:38,493 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:38,493 - INFO - [BingX] Price Updated: 98.52000000
+2025-03-09 21:28:39,116 - INFO - [Binance] Mark Price Updated: 98.45000000
+2025-03-09 21:28:39,116 - INFO - [Price Compare] Binance: 98.45000000 | BingX: 98.52000000 | Diff: 0.0711% | Time: 21:28:39.116
+2025-03-09 21:28:40,966 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:28:40,966 - INFO - [Price Compare] Binance: 98.45000000 | BingX: 98.53000000 | Diff: 0.0813% | Time: 21:28:40.966
+2025-03-09 21:28:40,991 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:28:41,466 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:28:41,713 - INFO - 
+🔻 Stopping Trading Bot...
+2025-03-09 21:28:42,010 - INFO - [Binance] Mark Price Updated: 98.48000000
+2025-03-09 21:28:42,010 - INFO - [Price Compare] Binance: 98.48000000 | BingX: 98.53000000 | Diff: 0.0508% | Time: 21:28:42.010
+2025-03-09 21:28:42,718 - INFO - ✅ Stopped.
+2025-03-09 21:28:43,463 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:28:43,463 - INFO - [Price Compare] Binance: 98.48000000 | BingX: 98.53000000 | Diff: 0.0508% | Time: 21:28:43.463
+2025-03-09 21:28:43,971 - INFO - [BingX] Price Updated: 98.53000000
+2025-03-09 21:34:50,875 - INFO - 🔹 Starting Trading Bot...
+2025-03-09 21:34:51,246 - INFO - Websocket connected
+2025-03-09 21:34:51,247 - INFO - [BingX] WebSocket Connected
+2025-03-09 21:34:51,263 - INFO - Websocket connected
+2025-03-09 21:34:51,264 - INFO - [Binance] WebSocket Connected
+2025-03-09 21:34:51,433 - INFO - [BingX] Price Updated: 98.42000000
+2025-03-09 21:34:54,020 - INFO - [Binance] Mark Price Updated: 98.34200101
+2025-03-09 21:34:54,021 - INFO - [Price Compare] Binance: 98.34200101 | BingX: 98.42000000 | Diff: 0.0793% | Time: 21:34:54.021
+2025-03-09 21:34:54,932 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:55,452 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:55,453 - INFO - [Price Compare] Binance: 98.34200101 | BingX: 98.37000000 | Diff: 0.0285% | Time: 21:34:55.453
+2025-03-09 21:34:55,476 - INFO - [BingX] Price Updated: 98.38000000
+2025-03-09 21:34:55,477 - INFO - [BingX] Price Updated: 98.38000000
+2025-03-09 21:34:55,933 - INFO - [BingX] Price Updated: 98.38000000
+2025-03-09 21:34:56,429 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:56,443 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:56,933 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:56,934 - INFO - [Price Compare] Binance: 98.34200101 | BingX: 98.37000000 | Diff: 0.0285% | Time: 21:34:56.933
+2025-03-09 21:34:56,955 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:56,957 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:57,014 - INFO - [Binance] Mark Price Updated: 98.34297980
+2025-03-09 21:34:58,485 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:58,485 - INFO - [Price Compare] Binance: 98.34297980 | BingX: 98.37000000 | Diff: 0.0275% | Time: 21:34:58.485
+2025-03-09 21:34:58,486 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:58,489 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:34:59,429 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:00,023 - INFO - [Binance] Mark Price Updated: 98.34570707
+2025-03-09 21:35:00,024 - INFO - [Price Compare] Binance: 98.34570707 | BingX: 98.37000000 | Diff: 0.0247% | Time: 21:35:00.024
+2025-03-09 21:35:00,432 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:00,938 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:01,429 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:01,430 - INFO - [Price Compare] Binance: 98.34570707 | BingX: 98.37000000 | Diff: 0.0247% | Time: 21:35:01.430
+2025-03-09 21:35:02,441 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:02,442 - INFO - [Price Compare] Binance: 98.34570707 | BingX: 98.37000000 | Diff: 0.0247% | Time: 21:35:02.442
+2025-03-09 21:35:02,442 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:02,931 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:03,026 - INFO - [Binance] Mark Price Updated: 98.32503737
+2025-03-09 21:35:03,943 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:03,943 - INFO - [Price Compare] Binance: 98.32503737 | BingX: 98.37000000 | Diff: 0.0457% | Time: 21:35:03.943
+2025-03-09 21:35:03,979 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:05,989 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:05,990 - INFO - [Price Compare] Binance: 98.32503737 | BingX: 98.37000000 | Diff: 0.0457% | Time: 21:35:05.990
+2025-03-09 21:35:06,019 - INFO - [Binance] Mark Price Updated: 98.31715859
+2025-03-09 21:35:07,447 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:07,448 - INFO - [Price Compare] Binance: 98.31715859 | BingX: 98.37000000 | Diff: 0.0537% | Time: 21:35:07.448
+2025-03-09 21:35:07,448 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:08,945 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:08,945 - INFO - [Price Compare] Binance: 98.31715859 | BingX: 98.37000000 | Diff: 0.0537% | Time: 21:35:08.945
+2025-03-09 21:35:09,016 - INFO - [Binance] Mark Price Updated: 98.31558990
+2025-03-09 21:35:09,435 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:10,941 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:10,942 - INFO - [Price Compare] Binance: 98.31558990 | BingX: 98.37000000 | Diff: 0.0553% | Time: 21:35:10.942
+2025-03-09 21:35:10,979 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:10,980 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:12,134 - INFO - [Binance] Mark Price Updated: 98.30449091
+2025-03-09 21:35:12,134 - INFO - [Price Compare] Binance: 98.30449091 | BingX: 98.37000000 | Diff: 0.0666% | Time: 21:35:12.134
+2025-03-09 21:35:13,455 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:13,455 - INFO - [Price Compare] Binance: 98.30449091 | BingX: 98.37000000 | Diff: 0.0666% | Time: 21:35:13.455
+2025-03-09 21:35:13,485 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:15,017 - INFO - [Binance] Mark Price Updated: 98.26536970
+2025-03-09 21:35:15,017 - INFO - [Price Compare] Binance: 98.26536970 | BingX: 98.37000000 | Diff: 0.1065% | Time: 21:35:15.017
+2025-03-09 21:35:15,017 - INFO - 🔍 SHORT Signal: Binance price (98.26536970) is lower than BingX price (98.37000000) by 0.1065%
+2025-03-09 21:35:15,017 - INFO - 🚀 Attempting to create SHORT position at 98.37000000 on BingX...
+2025-03-09 21:35:15,624 - INFO - ✅ Position Successfully Created:
+   Order ID: 1898744395735457792
+   Side: SHORT
+   Quantity: 0.1
+   Fill Price: 98.24
+   Status: FILLED
+2025-03-09 21:35:15,938 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:16,434 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:16,435 - INFO - [Price Compare] Binance: 98.26536970 | BingX: 98.37000000 | Diff: 0.1065% | Time: 21:35:16.434
+2025-03-09 21:35:16,534 - INFO - [BingX] Price Updated: 98.37000000
+2025-03-09 21:35:16,934 - INFO - [BingX] Price Updated: 98.33000000
+2025-03-09 21:35:17,970 - INFO - [BingX] Price Updated: 98.33000000
+2025-03-09 21:35:17,970 - INFO - [Price Compare] Binance: 98.26536970 | BingX: 98.33000000 | Diff: 0.0658% | Time: 21:35:17.970
+2025-03-09 21:35:18,021 - INFO - [Binance] Mark Price Updated: 98.23786768
+2025-03-09 21:35:18,432 - INFO - [BingX] Price Updated: 98.33000000
+2025-03-09 21:35:20,018 - INFO - [BingX] Price Updated: 98.33000000
+2025-03-09 21:35:20,019 - INFO - [Price Compare] Binance: 98.23786768 | BingX: 98.33000000 | Diff: 0.0938% | Time: 21:35:20.019
+2025-03-09 21:35:20,447 - INFO - [BingX] Price Updated: 98.33000000
+2025-03-09 21:35:20,507 - INFO - 
+🔻 Stopping Trading Bot...
+2025-03-09 21:35:21,019 - INFO - [Binance] Mark Price Updated: 98.23920101
+2025-03-09 21:35:21,019 - INFO - [Price Compare] Binance: 98.23920101 | BingX: 98.33000000 | Diff: 0.0924% | Time: 21:35:21.019
+2025-03-09 21:35:21,509 - INFO - ✅ Stopped.
+2025-03-09 21:35:23,822 - INFO - [BingX] Price Updated: 98.33000000
+2025-03-09 21:35:23,822 - INFO - [Price Compare] Binance: 98.23920101 | BingX: 98.33000000 | Diff: 0.0924% | Time: 21:35:23.822
+2025-03-09 21:35:24,018 - INFO - [Binance] Mark Price Updated: 98.23225859
+2025-03-09 21:35:24,442 - INFO - [BingX] Price Updated: 98.33000000
+2025-03-09 21:44:48,424 - ERROR - ❌ API Error: this api is not exist,please refer to the API docs https://bingx-api.github.io/docs (Code: 100400)
+2025-03-09 21:44:48,427 - ERROR - ❌ API permissions check failed
+2025-03-09 21:44:48,427 - ERROR - ❌ Failed to verify API permissions at startup
+2025-03-09 21:51:12,020 - ERROR - ❌ API Error: this api is not exist,please refer to the API docs https://bingx-api.github.io/docs (Code: 100400)
+2025-03-09 21:51:12,023 - ERROR - ❌ API verification failed: None
+2025-03-09 21:51:12,024 - WARNING - ⚠️ API verification failed at startup
+2025-03-09 21:51:12,024 - INFO - 🔹 Starting Trading Bot...
+2025-03-09 21:51:12,399 - INFO - Websocket connected
+2025-03-09 21:51:12,399 - INFO - [BingX] WebSocket Connected
+2025-03-09 21:51:12,847 - INFO - Websocket connected
+2025-03-09 21:51:12,847 - INFO - [Binance] WebSocket Connected
+2025-03-09 21:51:13,026 - INFO - [BingX] Price Updated: 98.57000000
+2025-03-09 21:51:15,037 - INFO - [Binance] Mark Price Updated: 98.50261414
+2025-03-09 21:51:15,038 - INFO - [Price Compare] Binance: 98.50261414 | BingX: 98.57000000 | Diff: 0.0684% | Time: 21:51:15.038
+2025-03-09 21:51:16,457 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:16,458 - INFO - [Price Compare] Binance: 98.50261414 | BingX: 98.72000000 | Diff: 0.2207% | Time: 21:51:16.458
+2025-03-09 21:51:16,458 - INFO - 🔍 SHORT Signal: Binance price (98.50261414) is lower than BingX price (98.72000000) by 0.2207%
+2025-03-09 21:51:16,458 - INFO - 🚀 Attempting to create SHORT position at 98.72000000 on BingX...
+2025-03-09 21:51:16,458 - INFO - Sending order parameters: {'symbol': 'LTC-USDT', 'side': 'SELL', 'positionSide': 'SHORT', 'type': 'MARKET', 'quantity': '0.1', 'timestamp': 1741531876458}
+2025-03-09 21:51:16,653 - ERROR - ❌ API Error: Invalid parameters,The request you constructed does not meet the requirements. Please refer to the sample code in the API documentation to construct your request. (https://bingx-api.github.io/docs/#/en-us/swapV2/introduce) (Code: 80014)
+2025-03-09 21:51:16,654 - ERROR - ❌ Failed to create position: None
+2025-03-09 21:51:18,036 - INFO - [Binance] Mark Price Updated: 98.71000000
+2025-03-09 21:51:18,036 - INFO - [Price Compare] Binance: 98.71000000 | BingX: 98.72000000 | Diff: 0.0101% | Time: 21:51:18.036
+2025-03-09 21:51:21,048 - INFO - [Binance] Mark Price Updated: 98.69000000
+2025-03-09 21:51:21,049 - INFO - [Price Compare] Binance: 98.69000000 | BingX: 98.72000000 | Diff: 0.0304% | Time: 21:51:21.048
+2025-03-09 21:51:21,109 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:51:21,139 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:51:23,011 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:51:23,011 - INFO - [Price Compare] Binance: 98.69000000 | BingX: 98.77000000 | Diff: 0.0811% | Time: 21:51:23.011
+2025-03-09 21:51:23,011 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:23,895 - INFO - 
+🔻 Stopping Trading Bot...
+2025-03-09 21:51:23,971 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:23,972 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:51:24,036 - INFO - [Binance] Mark Price Updated: 98.70000000
+2025-03-09 21:51:24,037 - INFO - [Price Compare] Binance: 98.70000000 | BingX: 98.74000000 | Diff: 0.0405% | Time: 21:51:24.037
+2025-03-09 21:51:24,901 - INFO - ✅ Stopped.
+2025-03-09 21:51:24,957 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:26,454 - INFO - [BingX] Price Updated: 98.76000000
+2025-03-09 21:51:26,455 - INFO - [Price Compare] Binance: 98.70000000 | BingX: 98.76000000 | Diff: 0.0608% | Time: 21:51:26.455
+2025-03-09 21:51:26,493 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:51:27,049 - INFO - [Binance] Mark Price Updated: 98.68000000
+2025-03-09 21:51:27,462 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:27,462 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.75000000 | Diff: 0.0709% | Time: 21:51:27.462
+2025-03-09 21:51:28,471 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:51:28,471 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.74000000 | Diff: 0.0608% | Time: 21:51:28.471
+2025-03-09 21:51:30,077 - INFO - [Binance] Mark Price Updated: 98.68000000
+2025-03-09 21:51:30,077 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.74000000 | Diff: 0.0608% | Time: 21:51:30.077
+2025-03-09 21:51:31,993 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:31,994 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.72000000 | Diff: 0.0405% | Time: 21:51:31.994
+2025-03-09 21:51:32,994 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:32,995 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.72000000 | Diff: 0.0405% | Time: 21:51:32.995
+2025-03-09 21:51:33,038 - INFO - [Binance] Mark Price Updated: 98.67000000
+2025-03-09 21:51:33,511 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:33,513 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:33,513 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:34,451 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:34,452 - INFO - [Price Compare] Binance: 98.67000000 | BingX: 98.75000000 | Diff: 0.0811% | Time: 21:51:34.451
+2025-03-09 21:51:36,119 - INFO - [Binance] Mark Price Updated: 98.68000000
+2025-03-09 21:51:36,119 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.75000000 | Diff: 0.0709% | Time: 21:51:36.119
+2025-03-09 21:51:37,454 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:37,454 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.72000000 | Diff: 0.0405% | Time: 21:51:37.454
+2025-03-09 21:51:38,449 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:51:39,034 - INFO - [Binance] Mark Price Updated: 98.71000000
+2025-03-09 21:51:39,034 - INFO - [Price Compare] Binance: 98.71000000 | BingX: 98.77000000 | Diff: 0.0608% | Time: 21:51:39.034
+2025-03-09 21:51:39,947 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:51:42,045 - INFO - [Binance] Mark Price Updated: 98.74000000
+2025-03-09 21:51:42,046 - INFO - [Price Compare] Binance: 98.74000000 | BingX: 98.78000000 | Diff: 0.0405% | Time: 21:51:42.046
+2025-03-09 21:51:44,450 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:51:44,450 - INFO - [Price Compare] Binance: 98.74000000 | BingX: 98.74000000 | Diff: 0.0000% | Time: 21:51:44.450
+2025-03-09 21:51:45,045 - INFO - [Binance] Mark Price Updated: 98.65000000
+2025-03-09 21:51:45,444 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:45,502 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:45,502 - INFO - [Price Compare] Binance: 98.65000000 | BingX: 98.72000000 | Diff: 0.0710% | Time: 21:51:45.502
+2025-03-09 21:51:46,957 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:46,959 - INFO - [Price Compare] Binance: 98.65000000 | BingX: 98.75000000 | Diff: 0.1014% | Time: 21:51:46.959
+2025-03-09 21:51:46,959 - INFO - 🔍 SHORT Signal: Binance price (98.65000000) is lower than BingX price (98.75000000) by 0.1014%
+2025-03-09 21:51:46,959 - INFO - 🚀 Attempting to create SHORT position at 98.75000000 on BingX...
+2025-03-09 21:51:46,960 - INFO - Sending order parameters: {'symbol': 'LTC-USDT', 'side': 'SELL', 'positionSide': 'SHORT', 'type': 'MARKET', 'quantity': '0.1', 'timestamp': 1741531906960}
+2025-03-09 21:51:47,139 - ERROR - ❌ API Error: Invalid parameters,The request you constructed does not meet the requirements. Please refer to the sample code in the API documentation to construct your request. (https://bingx-api.github.io/docs/#/en-us/swapV2/introduce) (Code: 80014)
+2025-03-09 21:51:47,139 - ERROR - ❌ Failed to create position: None
+2025-03-09 21:51:47,447 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:51:48,041 - INFO - [Binance] Mark Price Updated: 98.71000000
+2025-03-09 21:51:48,042 - INFO - [Price Compare] Binance: 98.71000000 | BingX: 98.74000000 | Diff: 0.0304% | Time: 21:51:48.042
+2025-03-09 21:51:50,967 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:50,968 - INFO - [Price Compare] Binance: 98.71000000 | BingX: 98.72000000 | Diff: 0.0101% | Time: 21:51:50.968
+2025-03-09 21:51:51,037 - INFO - [Binance] Mark Price Updated: 98.69000000
+2025-03-09 21:51:52,970 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:52,970 - INFO - [Price Compare] Binance: 98.69000000 | BingX: 98.75000000 | Diff: 0.0608% | Time: 21:51:52.970
+2025-03-09 21:51:53,963 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:54,041 - INFO - [Binance] Mark Price Updated: 98.69000000
+2025-03-09 21:51:54,041 - INFO - [Price Compare] Binance: 98.69000000 | BingX: 98.75000000 | Diff: 0.0608% | Time: 21:51:54.041
+2025-03-09 21:51:54,446 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:51:54,480 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:51:55,452 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:51:55,453 - INFO - [Price Compare] Binance: 98.69000000 | BingX: 98.74000000 | Diff: 0.0507% | Time: 21:51:55.452
+2025-03-09 21:51:57,052 - INFO - [Binance] Mark Price Updated: 98.68000000
+2025-03-09 21:51:57,052 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.74000000 | Diff: 0.0608% | Time: 21:51:57.052
+2025-03-09 21:51:57,534 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:51:58,987 - INFO - [BingX] Price Updated: 98.76000000
+2025-03-09 21:51:58,988 - INFO - [Price Compare] Binance: 98.68000000 | BingX: 98.76000000 | Diff: 0.0811% | Time: 21:51:58.988
+2025-03-09 21:52:00,043 - INFO - [Binance] Mark Price Updated: 98.72000000
+2025-03-09 21:52:00,043 - INFO - [Price Compare] Binance: 98.72000000 | BingX: 98.76000000 | Diff: 0.0405% | Time: 21:52:00.043
+2025-03-09 21:52:01,931 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:01,931 - INFO - [Price Compare] Binance: 98.72000000 | BingX: 98.78000000 | Diff: 0.0608% | Time: 21:52:01.931
+2025-03-09 21:52:02,430 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:03,037 - INFO - [Binance] Mark Price Updated: 98.73000000
+2025-03-09 21:52:03,037 - INFO - [Price Compare] Binance: 98.73000000 | BingX: 98.78000000 | Diff: 0.0506% | Time: 21:52:03.037
+2025-03-09 21:52:03,438 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:03,446 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:03,482 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:04,434 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:04,434 - INFO - [Price Compare] Binance: 98.73000000 | BingX: 98.78000000 | Diff: 0.0506% | Time: 21:52:04.434
+2025-03-09 21:52:04,458 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:04,976 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:06,124 - INFO - [Binance] Mark Price Updated: 98.73000000
+2025-03-09 21:52:06,124 - INFO - [Price Compare] Binance: 98.73000000 | BingX: 98.78000000 | Diff: 0.0506% | Time: 21:52:06.124
+2025-03-09 21:52:07,449 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:07,449 - INFO - [Price Compare] Binance: 98.73000000 | BingX: 98.79000000 | Diff: 0.0608% | Time: 21:52:07.449
+2025-03-09 21:52:07,468 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:07,938 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:09,092 - INFO - [Binance] Mark Price Updated: 98.78000000
+2025-03-09 21:52:09,092 - INFO - [Price Compare] Binance: 98.78000000 | BingX: 98.79000000 | Diff: 0.0101% | Time: 21:52:09.092
+2025-03-09 21:52:09,439 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:09,943 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:09,950 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:10,944 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:10,944 - INFO - [Price Compare] Binance: 98.78000000 | BingX: 98.79000000 | Diff: 0.0101% | Time: 21:52:10.944
+2025-03-09 21:52:11,442 - INFO - [BingX] Price Updated: 98.79000000
+2025-03-09 21:52:11,529 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:11,529 - INFO - [BingX] Price Updated: 98.80000000
+2025-03-09 21:52:11,530 - INFO - [BingX] Price Updated: 98.80000000
+2025-03-09 21:52:11,530 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:12,039 - INFO - [Binance] Mark Price Updated: 98.80893812
+2025-03-09 21:52:12,040 - INFO - [Price Compare] Binance: 98.80893812 | BingX: 98.82000000 | Diff: 0.0112% | Time: 21:52:12.040
+2025-03-09 21:52:12,955 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:13,444 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:13,444 - INFO - [Price Compare] Binance: 98.80893812 | BingX: 98.89000000 | Diff: 0.0820% | Time: 21:52:13.444
+2025-03-09 21:52:13,478 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:13,959 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:52:13,975 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:13,975 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:14,443 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:14,936 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:52:14,936 - INFO - [Price Compare] Binance: 98.80893812 | BingX: 98.88000000 | Diff: 0.0719% | Time: 21:52:14.936
+2025-03-09 21:52:15,038 - INFO - [Binance] Mark Price Updated: 98.86000000
+2025-03-09 21:52:15,441 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:15,941 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:15,941 - INFO - [Price Compare] Binance: 98.86000000 | BingX: 98.89000000 | Diff: 0.0303% | Time: 21:52:15.941
+2025-03-09 21:52:15,949 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:52:16,515 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:16,550 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:52:17,436 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:17,436 - INFO - [Price Compare] Binance: 98.86000000 | BingX: 98.89000000 | Diff: 0.0303% | Time: 21:52:17.436
+2025-03-09 21:52:18,041 - INFO - [Binance] Mark Price Updated: 98.83000000
+2025-03-09 21:52:18,443 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:18,443 - INFO - [Price Compare] Binance: 98.83000000 | BingX: 98.89000000 | Diff: 0.0607% | Time: 21:52:18.443
+2025-03-09 21:52:18,454 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:52:18,936 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:52:19,492 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:19,493 - INFO - [Price Compare] Binance: 98.83000000 | BingX: 98.89000000 | Diff: 0.0607% | Time: 21:52:19.493
+2025-03-09 21:52:19,939 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:19,952 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:52:20,443 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:20,444 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:52:20,956 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:52:20,956 - INFO - [Price Compare] Binance: 98.83000000 | BingX: 98.86000000 | Diff: 0.0304% | Time: 21:52:20.956
+2025-03-09 21:52:20,999 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:52:21,039 - INFO - [Binance] Mark Price Updated: 98.81527900
+2025-03-09 21:52:21,437 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:52:21,933 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:52:21,964 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:21,964 - INFO - [Price Compare] Binance: 98.81527900 | BingX: 98.85000000 | Diff: 0.0351% | Time: 21:52:21.964
+2025-03-09 21:52:22,444 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:52:22,944 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:52:23,435 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:23,435 - INFO - [Price Compare] Binance: 98.81527900 | BingX: 98.85000000 | Diff: 0.0351% | Time: 21:52:23.435
+2025-03-09 21:52:23,461 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:52:23,462 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:23,959 - INFO - [BingX] Price Updated: 98.84000000
+2025-03-09 21:52:24,036 - INFO - [Binance] Mark Price Updated: 98.77285475
+2025-03-09 21:52:24,442 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:24,442 - INFO - [Price Compare] Binance: 98.77285475 | BingX: 98.85000000 | Diff: 0.0781% | Time: 21:52:24.442
+2025-03-09 21:52:24,951 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:25,948 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:25,948 - INFO - [Price Compare] Binance: 98.77285475 | BingX: 98.82000000 | Diff: 0.0477% | Time: 21:52:25.948
+2025-03-09 21:52:25,949 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:52:26,942 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:27,039 - INFO - [Binance] Mark Price Updated: 98.78000000
+2025-03-09 21:52:27,039 - INFO - [Price Compare] Binance: 98.78000000 | BingX: 98.85000000 | Diff: 0.0709% | Time: 21:52:27.039
+2025-03-09 21:52:27,442 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:27,453 - INFO - [BingX] Price Updated: 98.84000000
+2025-03-09 21:52:27,943 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:27,947 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:52:27,984 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:52:28,453 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:52:28,453 - INFO - [Price Compare] Binance: 98.78000000 | BingX: 98.83000000 | Diff: 0.0506% | Time: 21:52:28.453
+2025-03-09 21:52:29,434 - INFO - [BingX] Price Updated: 98.80000000
+2025-03-09 21:52:30,046 - INFO - [Binance] Mark Price Updated: 98.74027172
+2025-03-09 21:52:30,046 - INFO - [Price Compare] Binance: 98.74027172 | BingX: 98.80000000 | Diff: 0.0605% | Time: 21:52:30.046
+2025-03-09 21:52:30,475 - INFO - [BingX] Price Updated: 98.81000000
+2025-03-09 21:52:31,354 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:31,355 - INFO - [Price Compare] Binance: 98.74027172 | BingX: 98.78000000 | Diff: 0.0402% | Time: 21:52:31.354
+2025-03-09 21:52:31,439 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:32,062 - INFO - [BingX] Price Updated: 98.80000000
+2025-03-09 21:52:32,961 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:32,961 - INFO - [Price Compare] Binance: 98.74027172 | BingX: 98.82000000 | Diff: 0.0807% | Time: 21:52:32.961
+2025-03-09 21:52:33,050 - INFO - [Binance] Mark Price Updated: 98.75363939
+2025-03-09 21:52:33,437 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:33,481 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:34,271 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:34,271 - INFO - [Price Compare] Binance: 98.75363939 | BingX: 98.78000000 | Diff: 0.0267% | Time: 21:52:34.271
+2025-03-09 21:52:35,942 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:35,942 - INFO - [Price Compare] Binance: 98.75363939 | BingX: 98.82000000 | Diff: 0.0672% | Time: 21:52:35.942
+2025-03-09 21:52:35,951 - INFO - [BingX] Price Updated: 98.80000000
+2025-03-09 21:52:35,973 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:52:36,038 - INFO - [Binance] Mark Price Updated: 98.75797576
+2025-03-09 21:52:36,938 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:37,454 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:37,454 - INFO - [Price Compare] Binance: 98.75797576 | BingX: 98.78000000 | Diff: 0.0223% | Time: 21:52:37.454
+2025-03-09 21:52:38,437 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:52:38,475 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:52:38,475 - INFO - [Price Compare] Binance: 98.75797576 | BingX: 98.77000000 | Diff: 0.0122% | Time: 21:52:38.475
+2025-03-09 21:52:38,485 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:52:38,941 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:38,956 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:39,041 - INFO - [Binance] Mark Price Updated: 98.71158182
+2025-03-09 21:52:39,443 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:39,940 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:39,940 - INFO - [Price Compare] Binance: 98.71158182 | BingX: 98.75000000 | Diff: 0.0389% | Time: 21:52:39.940
+2025-03-09 21:52:40,456 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:41,444 - INFO - [BingX] Price Updated: 98.76000000
+2025-03-09 21:52:41,444 - INFO - [Price Compare] Binance: 98.71158182 | BingX: 98.76000000 | Diff: 0.0491% | Time: 21:52:41.444
+2025-03-09 21:52:41,461 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:52:42,051 - INFO - [Binance] Mark Price Updated: 98.72286869
+2025-03-09 21:52:43,436 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:43,437 - INFO - [Price Compare] Binance: 98.72286869 | BingX: 98.78000000 | Diff: 0.0579% | Time: 21:52:43.436
+2025-03-09 21:52:43,460 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:52:43,959 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:44,855 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:44,855 - INFO - [Price Compare] Binance: 98.72286869 | BingX: 98.78000000 | Diff: 0.0579% | Time: 21:52:44.855
+2025-03-09 21:52:44,938 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:44,949 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:45,043 - INFO - [Binance] Mark Price Updated: 98.73620202
+2025-03-09 21:52:45,495 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:45,496 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:45,506 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:46,955 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:46,955 - INFO - [Price Compare] Binance: 98.73620202 | BingX: 98.78000000 | Diff: 0.0444% | Time: 21:52:46.955
+2025-03-09 21:52:47,451 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:47,459 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:47,490 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:48,061 - INFO - [Binance] Mark Price Updated: 98.73726566
+2025-03-09 21:52:48,061 - INFO - [Price Compare] Binance: 98.73726566 | BingX: 98.78000000 | Diff: 0.0433% | Time: 21:52:48.061
+2025-03-09 21:52:49,953 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:49,953 - INFO - [Price Compare] Binance: 98.73726566 | BingX: 98.78000000 | Diff: 0.0433% | Time: 21:52:49.953
+2025-03-09 21:52:50,467 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:51,064 - INFO - [Binance] Mark Price Updated: 98.73726566
+2025-03-09 21:52:51,065 - INFO - [Price Compare] Binance: 98.73726566 | BingX: 98.78000000 | Diff: 0.0433% | Time: 21:52:51.065
+2025-03-09 21:52:51,942 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:51,960 - INFO - [BingX] Price Updated: 98.78000000
+2025-03-09 21:52:52,445 - INFO - [BingX] Price Updated: 98.77000000
+2025-03-09 21:52:52,445 - INFO - [Price Compare] Binance: 98.73726566 | BingX: 98.77000000 | Diff: 0.0332% | Time: 21:52:52.445
+2025-03-09 21:52:52,964 - INFO - [BingX] Price Updated: 98.76000000
+2025-03-09 21:52:53,439 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:53,957 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:53,957 - INFO - [Price Compare] Binance: 98.73726566 | BingX: 98.75000000 | Diff: 0.0129% | Time: 21:52:53.957
+2025-03-09 21:52:53,968 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:52:53,987 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:54,037 - INFO - [Binance] Mark Price Updated: 98.70499091
+2025-03-09 21:52:54,461 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:54,476 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:52:54,946 - INFO - [BingX] Price Updated: 98.75000000
+2025-03-09 21:52:56,941 - INFO - [BingX] Price Updated: 98.73000000
+2025-03-09 21:52:56,941 - INFO - [Price Compare] Binance: 98.70499091 | BingX: 98.73000000 | Diff: 0.0253% | Time: 21:52:56.941
+2025-03-09 21:52:57,051 - INFO - [Binance] Mark Price Updated: 98.69572929
+2025-03-09 21:52:57,487 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:52:57,938 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:52:58,446 - INFO - [BingX] Price Updated: 98.74000000
+2025-03-09 21:52:58,446 - INFO - [Price Compare] Binance: 98.69572929 | BingX: 98.74000000 | Diff: 0.0449% | Time: 21:52:58.446
+2025-03-09 21:52:59,475 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:52:59,475 - INFO - [Price Compare] Binance: 98.69572929 | BingX: 98.72000000 | Diff: 0.0246% | Time: 21:52:59.475
+2025-03-09 21:53:00,089 - INFO - [Binance] Mark Price Updated: 98.67236566
+2025-03-09 21:53:00,489 - INFO - [BingX] Price Updated: 98.71000000
+2025-03-09 21:53:00,489 - INFO - [Price Compare] Binance: 98.67236566 | BingX: 98.71000000 | Diff: 0.0381% | Time: 21:53:00.489
+2025-03-09 21:53:00,489 - INFO - [BingX] Price Updated: 98.70000000
+2025-03-09 21:53:00,490 - INFO - [BingX] Price Updated: 98.71000000
+2025-03-09 21:53:01,456 - INFO - [BingX] Price Updated: 98.69000000
+2025-03-09 21:53:03,037 - INFO - [Binance] Mark Price Updated: 98.64288283
+2025-03-09 21:53:03,037 - INFO - [Price Compare] Binance: 98.64288283 | BingX: 98.69000000 | Diff: 0.0478% | Time: 21:53:03.037
+2025-03-09 21:53:03,451 - INFO - [BingX] Price Updated: 98.67000000
+2025-03-09 21:53:03,949 - INFO - [BingX] Price Updated: 98.67000000
+2025-03-09 21:53:03,964 - INFO - [BingX] Price Updated: 98.67000000
+2025-03-09 21:53:04,445 - INFO - [BingX] Price Updated: 98.66000000
+2025-03-09 21:53:04,446 - INFO - [Price Compare] Binance: 98.64288283 | BingX: 98.66000000 | Diff: 0.0174% | Time: 21:53:04.446
+2025-03-09 21:53:04,953 - INFO - [BingX] Price Updated: 98.67000000
+2025-03-09 21:53:06,053 - INFO - [Binance] Mark Price Updated: 98.63330707
+2025-03-09 21:53:06,053 - INFO - [Price Compare] Binance: 98.63330707 | BingX: 98.67000000 | Diff: 0.0372% | Time: 21:53:06.053
+2025-03-09 21:53:06,475 - INFO - [BingX] Price Updated: 98.67000000
+2025-03-09 21:53:06,475 - INFO - [BingX] Price Updated: 98.67000000
+2025-03-09 21:53:06,955 - INFO - [BingX] Price Updated: 98.69000000
+2025-03-09 21:53:07,454 - INFO - [BingX] Price Updated: 98.68000000
+2025-03-09 21:53:07,455 - INFO - [Price Compare] Binance: 98.63330707 | BingX: 98.68000000 | Diff: 0.0473% | Time: 21:53:07.455
+2025-03-09 21:53:07,961 - INFO - [BingX] Price Updated: 98.69000000
+2025-03-09 21:53:09,101 - INFO - [Binance] Mark Price Updated: 98.65000000
+2025-03-09 21:53:09,101 - INFO - [Price Compare] Binance: 98.65000000 | BingX: 98.69000000 | Diff: 0.0405% | Time: 21:53:09.101
+2025-03-09 21:53:10,458 - INFO - [BingX] Price Updated: 98.71000000
+2025-03-09 21:53:10,459 - INFO - [Price Compare] Binance: 98.65000000 | BingX: 98.71000000 | Diff: 0.0608% | Time: 21:53:10.459
+2025-03-09 21:53:11,750 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:53:11,751 - INFO - [Price Compare] Binance: 98.65000000 | BingX: 98.72000000 | Diff: 0.0710% | Time: 21:53:11.751
+2025-03-09 21:53:12,071 - INFO - [Binance] Mark Price Updated: 98.65986465
+2025-03-09 21:53:12,452 - INFO - [BingX] Price Updated: 98.71000000
+2025-03-09 21:53:12,455 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:53:12,952 - INFO - [BingX] Price Updated: 98.71000000
+2025-03-09 21:53:12,952 - INFO - [Price Compare] Binance: 98.65986465 | BingX: 98.71000000 | Diff: 0.0508% | Time: 21:53:12.952
+2025-03-09 21:53:12,989 - INFO - [BingX] Price Updated: 98.72000000
+2025-03-09 21:53:14,449 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:14,449 - INFO - [Price Compare] Binance: 98.65986465 | BingX: 98.89000000 | Diff: 0.2333% | Time: 21:53:14.449
+2025-03-09 21:53:14,449 - INFO - 🔍 SHORT Signal: Binance price (98.65986465) is lower than BingX price (98.89000000) by 0.2333%
+2025-03-09 21:53:14,449 - INFO - 🚀 Attempting to create SHORT position at 98.89000000 on BingX...
+2025-03-09 21:53:14,449 - INFO - Sending order parameters: {'symbol': 'LTC-USDT', 'side': 'SELL', 'positionSide': 'SHORT', 'type': 'MARKET', 'quantity': '0.1', 'timestamp': 1741531994449}
+2025-03-09 21:53:14,609 - ERROR - ❌ API Error: Invalid parameters,The request you constructed does not meet the requirements. Please refer to the sample code in the API documentation to construct your request. (https://bingx-api.github.io/docs/#/en-us/swapV2/introduce) (Code: 80014)
+2025-03-09 21:53:14,611 - ERROR - ❌ Failed to create position: None
+2025-03-09 21:53:14,611 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:14,947 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:14,965 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:15,038 - INFO - [Binance] Mark Price Updated: 98.76829118
+2025-03-09 21:53:15,442 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:16,474 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:16,475 - INFO - [Price Compare] Binance: 98.76829118 | BingX: 98.89000000 | Diff: 0.1232% | Time: 21:53:16.475
+2025-03-09 21:53:16,475 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:17,449 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:17,462 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:18,042 - INFO - [Binance] Mark Price Updated: 98.85737778
+2025-03-09 21:53:18,042 - INFO - [Price Compare] Binance: 98.85737778 | BingX: 98.89000000 | Diff: 0.0330% | Time: 21:53:18.042
+2025-03-09 21:53:18,444 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:18,511 - INFO - [BingX] Price Updated: 98.87000000
+2025-03-09 21:53:18,958 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:20,460 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:53:20,461 - INFO - [Price Compare] Binance: 98.85737778 | BingX: 98.86000000 | Diff: 0.0027% | Time: 21:53:20.460
+2025-03-09 21:53:20,461 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:53:20,482 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:20,482 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:53:21,048 - INFO - [Binance] Mark Price Updated: 98.80283232
+2025-03-09 21:53:21,448 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:21,465 - INFO - [BingX] Price Updated: 98.84000000
+2025-03-09 21:53:21,465 - INFO - [Price Compare] Binance: 98.80283232 | BingX: 98.84000000 | Diff: 0.0376% | Time: 21:53:21.465
+2025-03-09 21:53:22,456 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:22,465 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:53:22,943 - INFO - [BingX] Price Updated: 98.80000000
+2025-03-09 21:53:22,944 - INFO - [Price Compare] Binance: 98.80283232 | BingX: 98.80000000 | Diff: -0.0029% | Time: 21:53:22.944
+2025-03-09 21:53:22,985 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:53:23,442 - INFO - [BingX] Price Updated: 98.80000000
+2025-03-09 21:53:23,959 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:53:23,959 - INFO - [Price Compare] Binance: 98.80283232 | BingX: 98.83000000 | Diff: 0.0275% | Time: 21:53:23.959
+2025-03-09 21:53:23,977 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:53:24,043 - INFO - [Binance] Mark Price Updated: 98.78414545
+2025-03-09 21:53:24,942 - INFO - [BingX] Price Updated: 98.82000000
+2025-03-09 21:53:24,971 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:53:24,972 - INFO - [Price Compare] Binance: 98.78414545 | BingX: 98.83000000 | Diff: 0.0464% | Time: 21:53:24.972
+2025-03-09 21:53:24,982 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:25,484 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:25,950 - INFO - [BingX] Price Updated: 98.84000000
+2025-03-09 21:53:26,460 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:53:26,460 - INFO - [Price Compare] Binance: 98.78414545 | BingX: 98.83000000 | Diff: 0.0464% | Time: 21:53:26.460
+2025-03-09 21:53:26,461 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:53:27,042 - INFO - [Binance] Mark Price Updated: 98.80000000
+2025-03-09 21:53:27,445 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:28,448 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:28,448 - INFO - [Price Compare] Binance: 98.80000000 | BingX: 98.88000000 | Diff: 0.0810% | Time: 21:53:28.448
+2025-03-09 21:53:28,454 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:29,464 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:29,464 - INFO - [Price Compare] Binance: 98.80000000 | BingX: 98.85000000 | Diff: 0.0506% | Time: 21:53:29.464
+2025-03-09 21:53:30,042 - INFO - [Binance] Mark Price Updated: 98.81602424
+2025-03-09 21:53:30,456 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:53:30,472 - INFO - [BingX] Price Updated: 98.83000000
+2025-03-09 21:53:30,472 - INFO - [Price Compare] Binance: 98.81602424 | BingX: 98.83000000 | Diff: 0.0141% | Time: 21:53:30.472
+2025-03-09 21:53:32,697 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:53:32,698 - INFO - [Price Compare] Binance: 98.81602424 | BingX: 98.86000000 | Diff: 0.0445% | Time: 21:53:32.698
+2025-03-09 21:53:33,064 - INFO - [Binance] Mark Price Updated: 98.82312626
+2025-03-09 21:53:33,985 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:53:33,986 - INFO - [Price Compare] Binance: 98.82312626 | BingX: 98.86000000 | Diff: 0.0373% | Time: 21:53:33.986
+2025-03-09 21:53:33,986 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:34,447 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:35,476 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:35,477 - INFO - [Price Compare] Binance: 98.82312626 | BingX: 98.88000000 | Diff: 0.0576% | Time: 21:53:35.477
+2025-03-09 21:53:35,478 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:53:36,136 - INFO - [Binance] Mark Price Updated: 98.82094444
+2025-03-09 21:53:36,946 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:36,947 - INFO - [Price Compare] Binance: 98.82094444 | BingX: 98.88000000 | Diff: 0.0598% | Time: 21:53:36.947
+2025-03-09 21:53:37,979 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:37,980 - INFO - [Price Compare] Binance: 98.82094444 | BingX: 98.88000000 | Diff: 0.0598% | Time: 21:53:37.980
+2025-03-09 21:53:38,460 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:53:39,040 - INFO - [Binance] Mark Price Updated: 98.82838990
+2025-03-09 21:53:39,040 - INFO - [Price Compare] Binance: 98.82838990 | BingX: 98.86000000 | Diff: 0.0320% | Time: 21:53:39.040
+2025-03-09 21:53:39,964 - INFO - [BingX] Price Updated: 98.87000000
+2025-03-09 21:53:41,275 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:41,276 - INFO - [Price Compare] Binance: 98.82838990 | BingX: 98.89000000 | Diff: 0.0623% | Time: 21:53:41.276
+2025-03-09 21:53:41,284 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:41,341 - INFO - [BingX] Price Updated: 98.87000000
+2025-03-09 21:53:41,453 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:41,477 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:42,047 - INFO - [Binance] Mark Price Updated: 98.83293535
+2025-03-09 21:53:42,681 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:42,681 - INFO - [Price Compare] Binance: 98.83293535 | BingX: 98.89000000 | Diff: 0.0577% | Time: 21:53:42.681
+2025-03-09 21:53:42,954 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:42,960 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:43,450 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:44,448 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:44,448 - INFO - [Price Compare] Binance: 98.83293535 | BingX: 98.88000000 | Diff: 0.0476% | Time: 21:53:44.448
+2025-03-09 21:53:44,467 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:44,950 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:44,977 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:44,980 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:44,981 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:45,055 - INFO - [Binance] Mark Price Updated: 98.84851414
+2025-03-09 21:53:46,068 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:46,068 - INFO - [Price Compare] Binance: 98.84851414 | BingX: 98.89000000 | Diff: 0.0420% | Time: 21:53:46.068
+2025-03-09 21:53:46,068 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:46,456 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:46,456 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:48,041 - INFO - [Binance] Mark Price Updated: 98.86427172
+2025-03-09 21:53:48,042 - INFO - [Price Compare] Binance: 98.86427172 | BingX: 98.89000000 | Diff: 0.0260% | Time: 21:53:48.042
+2025-03-09 21:53:48,967 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:48,967 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:49,460 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:49,461 - INFO - [Price Compare] Binance: 98.86427172 | BingX: 98.89000000 | Diff: 0.0260% | Time: 21:53:49.461
+2025-03-09 21:53:49,472 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:50,496 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:50,496 - INFO - [Price Compare] Binance: 98.86427172 | BingX: 98.89000000 | Diff: 0.0260% | Time: 21:53:50.496
+2025-03-09 21:53:50,508 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:51,044 - INFO - [Binance] Mark Price Updated: 98.84077677
+2025-03-09 21:53:51,598 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:51,599 - INFO - [Price Compare] Binance: 98.84077677 | BingX: 98.89000000 | Diff: 0.0498% | Time: 21:53:51.599
+2025-03-09 21:53:51,600 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:51,621 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:51,622 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:51,951 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:53,442 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:53,442 - INFO - [Price Compare] Binance: 98.84077677 | BingX: 98.89000000 | Diff: 0.0498% | Time: 21:53:53.442
+2025-03-09 21:53:53,453 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:53,959 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:53,988 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:54,002 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:54,041 - INFO - [Binance] Mark Price Updated: 98.84381818
+2025-03-09 21:53:54,456 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:54,457 - INFO - [Price Compare] Binance: 98.84381818 | BingX: 98.88000000 | Diff: 0.0366% | Time: 21:53:54.457
+2025-03-09 21:53:56,957 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:56,957 - INFO - [Price Compare] Binance: 98.84381818 | BingX: 98.89000000 | Diff: 0.0467% | Time: 21:53:56.957
+2025-03-09 21:53:57,039 - INFO - [Binance] Mark Price Updated: 98.84018182
+2025-03-09 21:53:57,465 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:57,494 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:57,495 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:57,504 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:58,456 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:58,457 - INFO - [Price Compare] Binance: 98.84018182 | BingX: 98.89000000 | Diff: 0.0504% | Time: 21:53:58.457
+2025-03-09 21:53:58,461 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:53:59,467 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:53:59,468 - INFO - [Price Compare] Binance: 98.84018182 | BingX: 98.89000000 | Diff: 0.0504% | Time: 21:53:59.468
+2025-03-09 21:54:00,046 - INFO - [Binance] Mark Price Updated: 98.81910202
+2025-03-09 21:54:01,458 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:54:01,458 - INFO - [Price Compare] Binance: 98.81910202 | BingX: 98.86000000 | Diff: 0.0414% | Time: 21:54:01.458
+2025-03-09 21:54:02,040 - INFO - [BingX] Price Updated: 98.85000000
+2025-03-09 21:54:02,041 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:54:02,041 - INFO - [BingX] Price Updated: 98.84000000
+2025-03-09 21:54:02,466 - INFO - [BingX] Price Updated: 98.87000000
+2025-03-09 21:54:02,467 - INFO - [Price Compare] Binance: 98.81910202 | BingX: 98.87000000 | Diff: 0.0515% | Time: 21:54:02.466
+2025-03-09 21:54:02,467 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:54:02,497 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:02,949 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:54:02,964 - INFO - [BingX] Price Updated: 98.86000000
+2025-03-09 21:54:02,985 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:03,054 - INFO - [Binance] Mark Price Updated: 98.79000000
+2025-03-09 21:54:03,478 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:03,479 - INFO - [Price Compare] Binance: 98.79000000 | BingX: 98.89000000 | Diff: 0.1012% | Time: 21:54:03.479
+2025-03-09 21:54:03,479 - INFO - 🔍 SHORT Signal: Binance price (98.79000000) is lower than BingX price (98.89000000) by 0.1012%
+2025-03-09 21:54:03,480 - INFO - 🚀 Attempting to create SHORT position at 98.89000000 on BingX...
+2025-03-09 21:54:03,480 - INFO - Sending order parameters: {'symbol': 'LTC-USDT', 'side': 'SELL', 'positionSide': 'SHORT', 'type': 'MARKET', 'quantity': '0.1', 'timestamp': 1741532043480}
+2025-03-09 21:54:03,853 - ERROR - ❌ API Error: Invalid parameters,The request you constructed does not meet the requirements. Please refer to the sample code in the API documentation to construct your request. (https://bingx-api.github.io/docs/#/en-us/swapV2/introduce) (Code: 80014)
+2025-03-09 21:54:03,854 - ERROR - ❌ Failed to create position: None
+2025-03-09 21:54:03,954 - INFO - [BingX] Price Updated: 98.88000000
+2025-03-09 21:54:05,496 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:05,496 - INFO - [Price Compare] Binance: 98.79000000 | BingX: 98.89000000 | Diff: 0.1012% | Time: 21:54:05.496
+2025-03-09 21:54:05,510 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:05,511 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:05,522 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:05,522 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:05,533 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:05,948 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:06,058 - INFO - [Binance] Mark Price Updated: 98.86000000
+2025-03-09 21:54:06,447 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:06,475 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:06,956 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:06,956 - INFO - [Price Compare] Binance: 98.86000000 | BingX: 98.89000000 | Diff: 0.0303% | Time: 21:54:06.956
+2025-03-09 21:54:07,965 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:07,965 - INFO - [Price Compare] Binance: 98.86000000 | BingX: 98.89000000 | Diff: 0.0303% | Time: 21:54:07.965
+2025-03-09 21:54:09,109 - INFO - [Binance] Mark Price Updated: 98.86585051
+2025-03-09 21:54:09,109 - INFO - [Price Compare] Binance: 98.86585051 | BingX: 98.89000000 | Diff: 0.0244% | Time: 21:54:09.109
+2025-03-09 21:54:11,951 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:11,952 - INFO - [Price Compare] Binance: 98.86585051 | BingX: 98.89000000 | Diff: 0.0244% | Time: 21:54:11.952
+2025-03-09 21:54:11,970 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:12,047 - INFO - [Binance] Mark Price Updated: 98.87090707
+2025-03-09 21:54:12,998 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:12,998 - INFO - [Price Compare] Binance: 98.87090707 | BingX: 98.89000000 | Diff: 0.0193% | Time: 21:54:12.998
+2025-03-09 21:54:14,464 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:14,465 - INFO - [Price Compare] Binance: 98.87090707 | BingX: 98.89000000 | Diff: 0.0193% | Time: 21:54:14.464
+2025-03-09 21:54:14,947 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:14,963 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:15,041 - INFO - [Binance] Mark Price Updated: 98.87000000
+2025-03-09 21:54:16,951 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:16,951 - INFO - [Price Compare] Binance: 98.87000000 | BingX: 98.89000000 | Diff: 0.0202% | Time: 21:54:16.951
+2025-03-09 21:54:17,456 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:17,469 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:17,495 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:17,509 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:18,121 - INFO - [Binance] Mark Price Updated: 98.88000000
+2025-03-09 21:54:18,122 - INFO - [Price Compare] Binance: 98.88000000 | BingX: 98.89000000 | Diff: 0.0101% | Time: 21:54:18.121
+2025-03-09 21:54:18,482 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:21,051 - INFO - [Binance] Mark Price Updated: 98.88588722
+2025-03-09 21:54:21,051 - INFO - [Price Compare] Binance: 98.88588722 | BingX: 98.89000000 | Diff: 0.0042% | Time: 21:54:21.051
+2025-03-09 21:54:21,480 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:21,480 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:21,490 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:21,491 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:22,455 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:22,456 - INFO - [Price Compare] Binance: 98.88588722 | BingX: 98.89000000 | Diff: 0.0042% | Time: 21:54:22.456
+2025-03-09 21:54:22,475 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:23,472 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:23,473 - INFO - [Price Compare] Binance: 98.88588722 | BingX: 98.89000000 | Diff: 0.0042% | Time: 21:54:23.473
+2025-03-09 21:54:24,398 - INFO - [Binance] Mark Price Updated: 98.84612727
+2025-03-09 21:54:24,742 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:24,743 - INFO - [Price Compare] Binance: 98.84612727 | BingX: 98.89000000 | Diff: 0.0444% | Time: 21:54:24.743
+2025-03-09 21:54:24,783 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:25,479 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:25,480 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:25,956 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:25,956 - INFO - [Price Compare] Binance: 98.84612727 | BingX: 98.89000000 | Diff: 0.0444% | Time: 21:54:25.956
+2025-03-09 21:54:26,459 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:26,482 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:26,950 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:27,387 - INFO - [Binance] Mark Price Updated: 98.86000000
+2025-03-09 21:54:27,387 - INFO - [Price Compare] Binance: 98.86000000 | BingX: 98.89000000 | Diff: 0.0303% | Time: 21:54:27.387
+2025-03-09 21:54:27,461 - INFO - [BingX] Price Updated: 98.89000000
+2025-03-09 21:54:27,497 - INFO - [BingX] Price Updated: 98.90000000
+2025-03-09 21:54:27,498 - INFO - [BingX] Price Updated: 98.94000000
+2025-03-09 21:54:28,973 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:28,973 - INFO - [Price Compare] Binance: 98.86000000 | BingX: 98.95000000 | Diff: 0.0910% | Time: 21:54:28.973
+2025-03-09 21:54:28,999 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:30,382 - INFO - [Binance] Mark Price Updated: 98.97000000
+2025-03-09 21:54:30,383 - INFO - [Price Compare] Binance: 98.97000000 | BingX: 98.95000000 | Diff: -0.0202% | Time: 21:54:30.383
+2025-03-09 21:54:30,479 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:32,461 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:32,461 - INFO - [Price Compare] Binance: 98.97000000 | BingX: 98.95000000 | Diff: -0.0202% | Time: 21:54:32.461
+2025-03-09 21:54:32,472 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:33,073 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:33,073 - INFO - [Binance] Mark Price Updated: 98.97690909
+2025-03-09 21:54:33,074 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:35,017 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:35,018 - INFO - [Price Compare] Binance: 98.97690909 | BingX: 98.95000000 | Diff: -0.0272% | Time: 21:54:35.018
+2025-03-09 21:54:35,452 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:35,463 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:35,496 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:35,496 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:36,036 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:36,036 - INFO - [Price Compare] Binance: 98.97690909 | BingX: 98.95000000 | Diff: -0.0272% | Time: 21:54:36.036
+2025-03-09 21:54:36,037 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:36,037 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:36,041 - INFO - [Binance] Mark Price Updated: 98.95757471
+2025-03-09 21:54:36,462 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:37,456 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:37,456 - INFO - [Price Compare] Binance: 98.95757471 | BingX: 98.95000000 | Diff: -0.0077% | Time: 21:54:37.456
+2025-03-09 21:54:37,476 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:37,491 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:37,491 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:37,951 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:37,974 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:37,983 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:38,461 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:38,461 - INFO - [Price Compare] Binance: 98.95757471 | BingX: 98.95000000 | Diff: -0.0077% | Time: 21:54:38.461
+2025-03-09 21:54:38,478 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:39,045 - INFO - [Binance] Mark Price Updated: 98.93802926
+2025-03-09 21:54:39,467 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:39,467 - INFO - [Price Compare] Binance: 98.93802926 | BingX: 98.95000000 | Diff: 0.0121% | Time: 21:54:39.467
+2025-03-09 21:54:39,475 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:39,496 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:39,496 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:40,030 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:40,973 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:40,974 - INFO - [Price Compare] Binance: 98.93802926 | BingX: 98.95000000 | Diff: 0.0121% | Time: 21:54:40.974
+2025-03-09 21:54:40,981 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:41,468 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:42,041 - INFO - [Binance] Mark Price Updated: 98.94734848
+2025-03-09 21:54:42,041 - INFO - [Price Compare] Binance: 98.94734848 | BingX: 98.95000000 | Diff: 0.0027% | Time: 21:54:42.041
+2025-03-09 21:54:42,463 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:43,962 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:43,962 - INFO - [Price Compare] Binance: 98.94734848 | BingX: 98.95000000 | Diff: 0.0027% | Time: 21:54:43.962
+2025-03-09 21:54:43,998 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:43,998 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:44,956 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:45,042 - INFO - [Binance] Mark Price Updated: 98.95350000
+2025-03-09 21:54:45,042 - INFO - [Price Compare] Binance: 98.95350000 | BingX: 98.95000000 | Diff: -0.0035% | Time: 21:54:45.042
+2025-03-09 21:54:46,458 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:46,458 - INFO - [Price Compare] Binance: 98.95350000 | BingX: 98.95000000 | Diff: -0.0035% | Time: 21:54:46.458
+2025-03-09 21:54:46,507 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:46,520 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:46,520 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:46,520 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:46,998 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:47,463 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:47,463 - INFO - [Price Compare] Binance: 98.95350000 | BingX: 98.95000000 | Diff: -0.0035% | Time: 21:54:47.463
+2025-03-09 21:54:47,970 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:47,975 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:48,043 - INFO - [Binance] Mark Price Updated: 98.97864949
+2025-03-09 21:54:48,970 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:48,970 - INFO - [Price Compare] Binance: 98.97864949 | BingX: 98.95000000 | Diff: -0.0289% | Time: 21:54:48.970
+2025-03-09 21:54:49,969 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:51,007 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:51,007 - INFO - [Price Compare] Binance: 98.97864949 | BingX: 98.95000000 | Diff: -0.0289% | Time: 21:54:51.007
+2025-03-09 21:54:51,008 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:51,008 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:51,044 - INFO - [Binance] Mark Price Updated: 98.98177576
+2025-03-09 21:54:52,981 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:52,981 - INFO - [Price Compare] Binance: 98.98177576 | BingX: 98.95000000 | Diff: -0.0321% | Time: 21:54:52.981
+2025-03-09 21:54:53,472 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:54,044 - INFO - [Binance] Mark Price Updated: 98.97183636
+2025-03-09 21:54:54,045 - INFO - [Price Compare] Binance: 98.97183636 | BingX: 98.95000000 | Diff: -0.0221% | Time: 21:54:54.044
+2025-03-09 21:54:54,461 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:54,471 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:55,460 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:55,461 - INFO - [Price Compare] Binance: 98.97183636 | BingX: 98.95000000 | Diff: -0.0221% | Time: 21:54:55.461
+2025-03-09 21:54:55,957 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:55,983 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:56,127 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:56,457 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:57,029 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:57,029 - INFO - [Price Compare] Binance: 98.97183636 | BingX: 98.95000000 | Diff: -0.0221% | Time: 21:54:57.029
+2025-03-09 21:54:57,047 - INFO - [Binance] Mark Price Updated: 98.96596263
+2025-03-09 21:54:57,954 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:58,478 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:58,479 - INFO - [Price Compare] Binance: 98.96596263 | BingX: 98.95000000 | Diff: -0.0161% | Time: 21:54:58.479
+2025-03-09 21:54:58,479 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:58,518 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:54:59,464 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:00,046 - INFO - [Binance] Mark Price Updated: 98.95899293
+2025-03-09 21:55:00,046 - INFO - [Price Compare] Binance: 98.95899293 | BingX: 98.95000000 | Diff: -0.0091% | Time: 21:55:00.046
+2025-03-09 21:55:00,967 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:00,967 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:02,007 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:02,007 - INFO - [Price Compare] Binance: 98.95899293 | BingX: 98.95000000 | Diff: -0.0091% | Time: 21:55:02.007
+2025-03-09 21:55:03,049 - INFO - [Binance] Mark Price Updated: 98.96231111
+2025-03-09 21:55:03,049 - INFO - [Price Compare] Binance: 98.96231111 | BingX: 98.95000000 | Diff: -0.0124% | Time: 21:55:03.049
+2025-03-09 21:55:03,463 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:03,472 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:03,998 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:04,463 - INFO - [BingX] Price Updated: 98.95000000
+2025-03-09 21:55:04,464 - INFO - [Price Compare] Binance: 98.96231111 | BingX: 98.95000000 | Diff: -0.0124% | Time: 21:55:04.464
+2025-03-09 21:55:04,729 - INFO - [BingX] Price Updated: 98.96000000
+2025-03-09 21:55:04,729 - INFO - [BingX] Price Updated: 98.97000000
+2025-03-09 21:55:04,730 - INFO - [BingX] Price Updated: 98.97000000
+2025-03-09 21:55:05,970 - INFO - [BingX] Price Updated: 98.98000000
+2025-03-09 21:55:05,970 - INFO - [Price Compare] Binance: 98.96231111 | BingX: 98.98000000 | Diff: 0.0179% | Time: 21:55:05.970
+2025-03-09 21:55:05,971 - INFO - [BingX] Price Updated: 98.98000000
+2025-03-09 21:55:05,985 - INFO - [BingX] Price Updated: 98.98000000
+2025-03-09 21:55:06,044 - INFO - [Binance] Mark Price Updated: 99.02000000
+2025-03-09 21:55:06,466 - INFO - [BingX] Price Updated: 98.98000000
+2025-03-09 21:55:06,599 - INFO - [BingX] Price Updated: 99.00000000
+2025-03-09 21:55:06,599 - INFO - [BingX] Price Updated: 98.99000000
+2025-03-09 21:55:06,599 - INFO - [BingX] Price Updated: 99.00000000
+2025-03-09 21:55:06,964 - INFO - [BingX] Price Updated: 99.00000000
+2025-03-09 21:55:07,974 - INFO - [BingX] Price Updated: 99.01000000
+2025-03-09 21:55:07,975 - INFO - [Price Compare] Binance: 99.02000000 | BingX: 99.01000000 | Diff: -0.0101% | Time: 21:55:07.975
+2025-03-09 21:55:07,975 - INFO - [BingX] Price Updated: 99.01000000
+2025-03-09 21:55:08,459 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:08,535 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:08,537 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:08,537 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:09,067 - INFO - [Binance] Mark Price Updated: 99.03817778
+2025-03-09 21:55:09,067 - INFO - [Price Compare] Binance: 99.03817778 | BingX: 99.02000000 | Diff: -0.0184% | Time: 21:55:09.067
+2025-03-09 21:55:09,456 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:09,960 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:09,980 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:10,067 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:10,068 - INFO - [Price Compare] Binance: 99.03817778 | BingX: 99.02000000 | Diff: -0.0184% | Time: 21:55:10.068
+2025-03-09 21:55:10,088 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:10,470 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:11,472 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:11,472 - INFO - [Price Compare] Binance: 99.03817778 | BingX: 99.02000000 | Diff: -0.0184% | Time: 21:55:11.472
+2025-03-09 21:55:11,507 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:12,045 - INFO - [Binance] Mark Price Updated: 99.06000000
+2025-03-09 21:55:12,462 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:12,485 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:12,485 - INFO - [Price Compare] Binance: 99.06000000 | BingX: 99.02000000 | Diff: -0.0404% | Time: 21:55:12.485
+2025-03-09 21:55:12,503 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:13,468 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:13,981 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:13,981 - INFO - [Price Compare] Binance: 99.06000000 | BingX: 99.02000000 | Diff: -0.0404% | Time: 21:55:13.981
+2025-03-09 21:55:14,961 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:15,007 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:15,008 - INFO - [Price Compare] Binance: 99.06000000 | BingX: 99.02000000 | Diff: -0.0404% | Time: 21:55:15.008
+2025-03-09 21:55:15,015 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:15,048 - INFO - [Binance] Mark Price Updated: 99.02599192
+2025-03-09 21:55:15,468 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:15,956 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:15,965 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:16,007 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:16,008 - INFO - [Price Compare] Binance: 99.02599192 | BingX: 99.02000000 | Diff: -0.0061% | Time: 21:55:16.008
+2025-03-09 21:55:16,957 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:16,977 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:17,463 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:17,463 - INFO - [Price Compare] Binance: 99.02599192 | BingX: 99.02000000 | Diff: -0.0061% | Time: 21:55:17.463
+2025-03-09 21:55:17,466 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:18,044 - INFO - [Binance] Mark Price Updated: 99.04000000
+2025-03-09 21:55:18,539 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:18,540 - INFO - [Price Compare] Binance: 99.04000000 | BingX: 99.02000000 | Diff: -0.0202% | Time: 21:55:18.540
+2025-03-09 21:55:18,541 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:19,464 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:19,476 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:19,978 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:19,978 - INFO - [Price Compare] Binance: 99.04000000 | BingX: 99.02000000 | Diff: -0.0202% | Time: 21:55:19.978
+2025-03-09 21:55:19,979 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:20,001 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:20,001 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:21,057 - INFO - [Binance] Mark Price Updated: 98.97846364
+2025-03-09 21:55:21,058 - INFO - [Price Compare] Binance: 98.97846364 | BingX: 99.02000000 | Diff: 0.0420% | Time: 21:55:21.058
+2025-03-09 21:55:21,458 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:21,476 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:21,963 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:21,977 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:22,007 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:22,962 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:22,962 - INFO - [Price Compare] Binance: 98.97846364 | BingX: 99.02000000 | Diff: 0.0420% | Time: 21:55:22.962
+2025-03-09 21:55:23,465 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:23,495 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:23,976 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:23,976 - INFO - [Price Compare] Binance: 98.97846364 | BingX: 99.02000000 | Diff: 0.0420% | Time: 21:55:23.976
+2025-03-09 21:55:24,005 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:24,005 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:24,045 - INFO - [Binance] Mark Price Updated: 98.98175354
+2025-03-09 21:55:25,501 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:25,519 - INFO - [Price Compare] Binance: 98.98175354 | BingX: 99.02000000 | Diff: 0.0386% | Time: 21:55:25.519
+2025-03-09 21:55:25,519 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:25,522 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:25,538 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:27,056 - INFO - [Binance] Mark Price Updated: 98.98000000
+2025-03-09 21:55:27,057 - INFO - [Price Compare] Binance: 98.98000000 | BingX: 99.02000000 | Diff: 0.0404% | Time: 21:55:27.057
+2025-03-09 21:55:28,475 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:28,475 - INFO - [Price Compare] Binance: 98.98000000 | BingX: 99.02000000 | Diff: 0.0404% | Time: 21:55:28.475
+2025-03-09 21:55:28,477 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:29,479 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:29,479 - INFO - [Price Compare] Binance: 98.98000000 | BingX: 99.02000000 | Diff: 0.0404% | Time: 21:55:29.479
+2025-03-09 21:55:29,496 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:29,955 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:29,975 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:30,003 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:30,046 - INFO - [Binance] Mark Price Updated: 98.98866667
+2025-03-09 21:55:30,969 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:30,969 - INFO - [Price Compare] Binance: 98.98866667 | BingX: 99.02000000 | Diff: 0.0317% | Time: 21:55:30.969
+2025-03-09 21:55:30,987 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:31,000 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:31,467 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:31,477 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:31,494 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:32,979 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:32,980 - INFO - [Price Compare] Binance: 98.98866667 | BingX: 99.02000000 | Diff: 0.0317% | Time: 21:55:32.980
+2025-03-09 21:55:33,044 - INFO - [Binance] Mark Price Updated: 98.99511111
+2025-03-09 21:55:33,656 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:34,079 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:34,079 - INFO - [Price Compare] Binance: 98.99511111 | BingX: 99.02000000 | Diff: 0.0251% | Time: 21:55:34.079
+2025-03-09 21:55:34,168 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:34,970 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:35,466 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:35,467 - INFO - [Price Compare] Binance: 98.99511111 | BingX: 99.02000000 | Diff: 0.0251% | Time: 21:55:35.467
+2025-03-09 21:55:35,477 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:35,496 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:35,965 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:36,046 - INFO - [Binance] Mark Price Updated: 98.99765657
+2025-03-09 21:55:37,073 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:37,074 - INFO - [Price Compare] Binance: 98.99765657 | BingX: 99.02000000 | Diff: 0.0226% | Time: 21:55:37.074
+2025-03-09 21:55:37,074 - INFO - [BingX] Price Updated: 99.01000000
+2025-03-09 21:55:37,074 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:37,968 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:39,045 - INFO - [Binance] Mark Price Updated: 98.98000000
+2025-03-09 21:55:39,045 - INFO - [Price Compare] Binance: 98.98000000 | BingX: 99.02000000 | Diff: 0.0404% | Time: 21:55:39.045
+2025-03-09 21:55:39,468 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:39,491 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:39,504 - INFO - [BingX] Price Updated: 99.01000000
+2025-03-09 21:55:39,504 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:39,973 - INFO - [BingX] Price Updated: 99.01000000
+2025-03-09 21:55:42,044 - INFO - [Binance] Mark Price Updated: 98.99000000
+2025-03-09 21:55:42,044 - INFO - [Price Compare] Binance: 98.99000000 | BingX: 99.01000000 | Diff: 0.0202% | Time: 21:55:42.044
+2025-03-09 21:55:42,468 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:42,478 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:42,510 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:42,510 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:42,510 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:43,461 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:43,461 - INFO - [Price Compare] Binance: 98.99000000 | BingX: 99.02000000 | Diff: 0.0303% | Time: 21:55:43.461
+2025-03-09 21:55:43,981 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:44,463 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:44,463 - INFO - [Price Compare] Binance: 98.99000000 | BingX: 99.02000000 | Diff: 0.0303% | Time: 21:55:44.463
+2025-03-09 21:55:44,977 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:45,050 - INFO - [Binance] Mark Price Updated: 98.98547576
+2025-03-09 21:55:45,531 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:45,531 - INFO - [Price Compare] Binance: 98.98547576 | BingX: 99.02000000 | Diff: 0.0349% | Time: 21:55:45.531
+2025-03-09 21:55:46,009 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:47,003 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:47,004 - INFO - [Price Compare] Binance: 98.98547576 | BingX: 99.02000000 | Diff: 0.0349% | Time: 21:55:47.004
+2025-03-09 21:55:47,004 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:47,962 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:47,973 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:48,004 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:48,004 - INFO - [Price Compare] Binance: 98.98547576 | BingX: 99.02000000 | Diff: 0.0349% | Time: 21:55:48.004
+2025-03-09 21:55:48,049 - INFO - [Binance] Mark Price Updated: 99.01000000
+2025-03-09 21:55:48,464 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:49,978 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:49,978 - INFO - [Price Compare] Binance: 99.01000000 | BingX: 99.02000000 | Diff: 0.0101% | Time: 21:55:49.978
+2025-03-09 21:55:50,971 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:51,001 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:51,001 - INFO - [Price Compare] Binance: 99.01000000 | BingX: 99.02000000 | Diff: 0.0101% | Time: 21:55:51.001
+2025-03-09 21:55:51,001 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:51,056 - INFO - [Binance] Mark Price Updated: 99.01475051
+2025-03-09 21:55:53,462 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:53,462 - INFO - [Price Compare] Binance: 99.01475051 | BingX: 99.02000000 | Diff: 0.0053% | Time: 21:55:53.462
+2025-03-09 21:55:53,493 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:54,073 - INFO - [Binance] Mark Price Updated: 99.00759091
+2025-03-09 21:55:54,074 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:54,074 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:54,074 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:54,472 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:54,472 - INFO - [Price Compare] Binance: 99.00759091 | BingX: 99.02000000 | Diff: 0.0125% | Time: 21:55:54.472
+2025-03-09 21:55:54,500 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:55,473 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:55,474 - INFO - [Price Compare] Binance: 99.00759091 | BingX: 99.02000000 | Diff: 0.0125% | Time: 21:55:55.473
+2025-03-09 21:55:57,042 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:57,042 - INFO - [Price Compare] Binance: 99.00759091 | BingX: 99.02000000 | Diff: 0.0125% | Time: 21:55:57.042
+2025-03-09 21:55:57,056 - INFO - [Binance] Mark Price Updated: 99.00728788
+2025-03-09 21:55:57,971 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:58,466 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:58,466 - INFO - [Price Compare] Binance: 99.00728788 | BingX: 99.02000000 | Diff: 0.0128% | Time: 21:55:58.466
+2025-03-09 21:55:58,971 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:58,971 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:59,468 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:59,468 - INFO - [Price Compare] Binance: 99.00728788 | BingX: 99.02000000 | Diff: 0.0128% | Time: 21:55:59.468
+2025-03-09 21:55:59,962 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:55:59,985 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:00,014 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:00,045 - INFO - [Binance] Mark Price Updated: 99.01452929
+2025-03-09 21:56:01,038 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:01,038 - INFO - [Price Compare] Binance: 99.01452929 | BingX: 99.02000000 | Diff: 0.0055% | Time: 21:56:01.038
+2025-03-09 21:56:01,039 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:01,462 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:01,480 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:02,967 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:02,967 - INFO - [Price Compare] Binance: 99.01452929 | BingX: 99.02000000 | Diff: 0.0055% | Time: 21:56:02.967
+2025-03-09 21:56:03,047 - INFO - [Binance] Mark Price Updated: 98.99713535
+2025-03-09 21:56:03,470 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:03,494 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:03,565 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:04,006 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:04,006 - INFO - [Price Compare] Binance: 98.99713535 | BingX: 99.02000000 | Diff: 0.0231% | Time: 21:56:04.006
+2025-03-09 21:56:04,733 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:05,518 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:05,519 - INFO - [Price Compare] Binance: 98.99713535 | BingX: 99.02000000 | Diff: 0.0231% | Time: 21:56:05.518
+2025-03-09 21:56:05,520 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:06,043 - INFO - [Binance] Mark Price Updated: 99.04000000
+2025-03-09 21:56:06,969 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:06,970 - INFO - [Price Compare] Binance: 99.04000000 | BingX: 99.02000000 | Diff: -0.0202% | Time: 21:56:06.969
+2025-03-09 21:56:06,977 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:06,984 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:07,470 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:07,982 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:07,982 - INFO - [Price Compare] Binance: 99.04000000 | BingX: 99.02000000 | Diff: -0.0202% | Time: 21:56:07.982
+2025-03-09 21:56:09,042 - INFO - [Binance] Mark Price Updated: 99.05000000
+2025-03-09 21:56:09,042 - INFO - [Price Compare] Binance: 99.05000000 | BingX: 99.02000000 | Diff: -0.0303% | Time: 21:56:09.042
+2025-03-09 21:56:09,478 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:10,047 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:10,048 - INFO - [Price Compare] Binance: 99.05000000 | BingX: 99.02000000 | Diff: -0.0303% | Time: 21:56:10.048
+2025-03-09 21:56:11,478 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:11,478 - INFO - [Price Compare] Binance: 99.05000000 | BingX: 99.02000000 | Diff: -0.0303% | Time: 21:56:11.478
+2025-03-09 21:56:11,511 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:12,095 - INFO - [Binance] Mark Price Updated: 99.02803838
+2025-03-09 21:56:12,464 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:13,465 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:13,466 - INFO - [Price Compare] Binance: 99.02803838 | BingX: 99.02000000 | Diff: -0.0081% | Time: 21:56:13.466
+2025-03-09 21:56:13,969 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:14,004 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:15,044 - INFO - [Binance] Mark Price Updated: 99.05000000
+2025-03-09 21:56:15,044 - INFO - [Price Compare] Binance: 99.05000000 | BingX: 99.02000000 | Diff: -0.0303% | Time: 21:56:15.044
+2025-03-09 21:56:16,471 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:16,472 - INFO - [Price Compare] Binance: 99.05000000 | BingX: 99.02000000 | Diff: -0.0303% | Time: 21:56:16.472
+2025-03-09 21:56:16,482 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:16,497 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:17,474 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:17,474 - INFO - [Price Compare] Binance: 99.05000000 | BingX: 99.02000000 | Diff: -0.0303% | Time: 21:56:17.474
+2025-03-09 21:56:17,484 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:17,974 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:18,047 - INFO - [Binance] Mark Price Updated: 99.02376768
+2025-03-09 21:56:18,473 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:19,468 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:19,468 - INFO - [Price Compare] Binance: 99.02376768 | BingX: 99.02000000 | Diff: -0.0038% | Time: 21:56:19.468
+2025-03-09 21:56:19,494 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:19,510 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:19,972 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:21,044 - INFO - [Binance] Mark Price Updated: 99.02069495
+2025-03-09 21:56:21,044 - INFO - [Price Compare] Binance: 99.02069495 | BingX: 99.02000000 | Diff: -0.0007% | Time: 21:56:21.044
+2025-03-09 21:56:21,057 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:21,972 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:23,987 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:23,987 - INFO - [Price Compare] Binance: 99.02069495 | BingX: 99.02000000 | Diff: -0.0007% | Time: 21:56:23.987
+2025-03-09 21:56:24,045 - INFO - [Binance] Mark Price Updated: 99.02987677
+2025-03-09 21:56:25,468 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:25,468 - INFO - [Price Compare] Binance: 99.02987677 | BingX: 99.02000000 | Diff: -0.0100% | Time: 21:56:25.468
+2025-03-09 21:56:25,966 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:25,986 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:26,004 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:26,964 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:26,964 - INFO - [Price Compare] Binance: 99.02987677 | BingX: 99.02000000 | Diff: -0.0100% | Time: 21:56:26.964
+2025-03-09 21:56:27,046 - INFO - [Binance] Mark Price Updated: 99.03275051
+2025-03-09 21:56:28,967 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:28,968 - INFO - [Price Compare] Binance: 99.03275051 | BingX: 99.02000000 | Diff: -0.0129% | Time: 21:56:28.968
+2025-03-09 21:56:28,992 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:29,010 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:29,976 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:29,976 - INFO - [Price Compare] Binance: 99.03275051 | BingX: 99.02000000 | Diff: -0.0129% | Time: 21:56:29.976
+2025-03-09 21:56:29,979 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:30,004 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:30,046 - INFO - [Binance] Mark Price Updated: 99.03816667
+2025-03-09 21:56:31,478 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:31,478 - INFO - [Price Compare] Binance: 99.03816667 | BingX: 99.02000000 | Diff: -0.0183% | Time: 21:56:31.478
+2025-03-09 21:56:31,988 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:32,012 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:32,012 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:32,766 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:32,767 - INFO - [Price Compare] Binance: 99.03816667 | BingX: 99.02000000 | Diff: -0.0183% | Time: 21:56:32.767
+2025-03-09 21:56:32,989 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:33,046 - INFO - [Binance] Mark Price Updated: 99.04422727
+2025-03-09 21:56:34,974 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:34,974 - INFO - [Price Compare] Binance: 99.04422727 | BingX: 99.02000000 | Diff: -0.0245% | Time: 21:56:34.974
+2025-03-09 21:56:34,988 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:35,004 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:35,009 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:36,048 - INFO - [Binance] Mark Price Updated: 99.04291313
+2025-03-09 21:56:36,048 - INFO - [Price Compare] Binance: 99.04291313 | BingX: 99.02000000 | Diff: -0.0231% | Time: 21:56:36.048
+2025-03-09 21:56:37,472 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:37,473 - INFO - [Price Compare] Binance: 99.04291313 | BingX: 99.02000000 | Diff: -0.0231% | Time: 21:56:37.473
+2025-03-09 21:56:37,499 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:39,047 - INFO - [Binance] Mark Price Updated: 99.02997374
+2025-03-09 21:56:39,047 - INFO - [Price Compare] Binance: 99.02997374 | BingX: 99.02000000 | Diff: -0.0101% | Time: 21:56:39.047
+2025-03-09 21:56:39,975 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:40,975 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:40,976 - INFO - [Price Compare] Binance: 99.02997374 | BingX: 99.02000000 | Diff: -0.0101% | Time: 21:56:40.976
+2025-03-09 21:56:40,989 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:41,482 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:42,100 - INFO - [Binance] Mark Price Updated: 99.01947980
+2025-03-09 21:56:42,112 - INFO - [Price Compare] Binance: 99.01947980 | BingX: 99.02000000 | Diff: 0.0005% | Time: 21:56:42.111
+2025-03-09 21:56:42,464 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:43,478 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:43,479 - INFO - [Price Compare] Binance: 99.01947980 | BingX: 99.02000000 | Diff: 0.0005% | Time: 21:56:43.479
+2025-03-09 21:56:44,971 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:44,972 - INFO - [Price Compare] Binance: 99.01947980 | BingX: 99.02000000 | Diff: 0.0005% | Time: 21:56:44.971
+2025-03-09 21:56:44,993 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:45,016 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:45,047 - INFO - [Binance] Mark Price Updated: 98.97701985
+2025-03-09 21:56:46,972 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:46,972 - INFO - [Price Compare] Binance: 98.97701985 | BingX: 99.02000000 | Diff: 0.0434% | Time: 21:56:46.972
+2025-03-09 21:56:46,991 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:47,009 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:47,969 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:47,989 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:47,989 - INFO - [Price Compare] Binance: 98.97701985 | BingX: 99.02000000 | Diff: 0.0434% | Time: 21:56:47.989
+2025-03-09 21:56:48,046 - INFO - [Binance] Mark Price Updated: 98.97701985
+2025-03-09 21:56:49,970 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:49,970 - INFO - [Price Compare] Binance: 98.97701985 | BingX: 99.02000000 | Diff: 0.0434% | Time: 21:56:49.970
+2025-03-09 21:56:51,049 - INFO - [Binance] Mark Price Updated: 98.97400836
+2025-03-09 21:56:51,049 - INFO - [Price Compare] Binance: 98.97400836 | BingX: 99.02000000 | Diff: 0.0465% | Time: 21:56:51.049
+2025-03-09 21:56:52,542 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:52,542 - INFO - [Price Compare] Binance: 98.97400836 | BingX: 99.02000000 | Diff: 0.0465% | Time: 21:56:52.542
+2025-03-09 21:56:52,575 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:52,575 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:53,568 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:53,568 - INFO - [Price Compare] Binance: 98.97400836 | BingX: 99.02000000 | Diff: 0.0465% | Time: 21:56:53.568
+2025-03-09 21:56:54,048 - INFO - [Binance] Mark Price Updated: 98.97346290
+2025-03-09 21:56:54,470 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:54,969 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:56:54,970 - INFO - [Price Compare] Binance: 98.97346290 | BingX: 99.02000000 | Diff: 0.0470% | Time: 21:56:54.969
+2025-03-09 21:56:57,048 - INFO - [Binance] Mark Price Updated: 98.97187374
+2025-03-09 21:56:57,049 - INFO - [Price Compare] Binance: 98.97187374 | BingX: 99.02000000 | Diff: 0.0486% | Time: 21:56:57.049
+2025-03-09 21:56:57,492 - INFO - [BingX] Price Updated: 99.03000000
+2025-03-09 21:56:57,492 - INFO - [BingX] Price Updated: 99.06000000
+2025-03-09 21:56:58,979 - INFO - [BingX] Price Updated: 99.05000000
+2025-03-09 21:56:58,979 - INFO - [Price Compare] Binance: 98.97187374 | BingX: 99.05000000 | Diff: 0.0789% | Time: 21:56:58.979
+2025-03-09 21:56:59,469 - INFO - [BingX] Price Updated: 99.05000000
+2025-03-09 21:56:59,534 - INFO - [BingX] Price Updated: 99.05000000
+2025-03-09 21:56:59,614 - INFO - [BingX] Price Updated: 99.05000000
+2025-03-09 21:57:00,058 - INFO - [Binance] Mark Price Updated: 98.97299495
+2025-03-09 21:57:00,058 - INFO - [Price Compare] Binance: 98.97299495 | BingX: 99.05000000 | Diff: 0.0778% | Time: 21:57:00.058
+2025-03-09 21:57:00,470 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:00,483 - INFO - [BingX] Price Updated: 99.01000000
+2025-03-09 21:57:00,977 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:00,990 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:01,982 - INFO - [BingX] Price Updated: 99.01000000
+2025-03-09 21:57:01,982 - INFO - [Price Compare] Binance: 98.97299495 | BingX: 99.01000000 | Diff: 0.0374% | Time: 21:57:01.982
+2025-03-09 21:57:02,478 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:02,495 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:03,053 - INFO - [Binance] Mark Price Updated: 98.94745859
+2025-03-09 21:57:03,053 - INFO - [Price Compare] Binance: 98.94745859 | BingX: 99.02000000 | Diff: 0.0733% | Time: 21:57:03.053
+2025-03-09 21:57:04,470 - INFO - [BingX] Price Updated: 99.03000000
+2025-03-09 21:57:04,471 - INFO - [Price Compare] Binance: 98.94745859 | BingX: 99.03000000 | Diff: 0.0834% | Time: 21:57:04.470
+2025-03-09 21:57:05,082 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:05,082 - INFO - [BingX] Price Updated: 99.03000000
+2025-03-09 21:57:05,082 - INFO - [BingX] Price Updated: 99.03000000
+2025-03-09 21:57:06,048 - INFO - [Binance] Mark Price Updated: 98.96173636
+2025-03-09 21:57:06,050 - INFO - [Price Compare] Binance: 98.96173636 | BingX: 99.03000000 | Diff: 0.0690% | Time: 21:57:06.049
+2025-03-09 21:57:06,478 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:09,050 - INFO - [Binance] Mark Price Updated: 98.93203939
+2025-03-09 21:57:09,051 - INFO - [Price Compare] Binance: 98.93203939 | BingX: 99.02000000 | Diff: 0.0889% | Time: 21:57:09.050
+2025-03-09 21:57:10,490 - INFO - [BingX] Price Updated: 99.00000000
+2025-03-09 21:57:10,490 - INFO - [Price Compare] Binance: 98.93203939 | BingX: 99.00000000 | Diff: 0.0687% | Time: 21:57:10.490
+2025-03-09 21:57:12,047 - INFO - [Binance] Mark Price Updated: 98.92536263
+2025-03-09 21:57:12,047 - INFO - [Price Compare] Binance: 98.92536263 | BingX: 99.00000000 | Diff: 0.0754% | Time: 21:57:12.047
+2025-03-09 21:57:13,479 - INFO - [BingX] Price Updated: 99.03000000
+2025-03-09 21:57:13,479 - INFO - [Price Compare] Binance: 98.92536263 | BingX: 99.03000000 | Diff: 0.1058% | Time: 21:57:13.479
+2025-03-09 21:57:13,479 - INFO - 🔍 SHORT Signal: Binance price (98.92536263) is lower than BingX price (99.03000000) by 0.1058%
+2025-03-09 21:57:13,479 - INFO - 🚀 Attempting to create SHORT position at 99.03000000 on BingX...
+2025-03-09 21:57:13,479 - INFO - Sending order parameters: {'symbol': 'LTC-USDT', 'side': 'SELL', 'positionSide': 'SHORT', 'type': 'MARKET', 'quantity': '0.1', 'timestamp': 1741532233479}
+2025-03-09 21:57:13,638 - ERROR - ❌ API Error: Invalid parameters,The request you constructed does not meet the requirements. Please refer to the sample code in the API documentation to construct your request. (https://bingx-api.github.io/docs/#/en-us/swapV2/introduce) (Code: 80014)
+2025-03-09 21:57:13,639 - ERROR - ❌ Failed to create position: None
+2025-03-09 21:57:15,000 - INFO - [BingX] Price Updated: 99.02000000
+2025-03-09 21:57:15,001 - INFO - [Price Compare] Binance: 98.92536263 | BingX: 99.02000000 | Diff: 0.0957% | Time: 21:57:15.001
+2025-03-09 21:57:15,045 - INFO - [Binance] Mark Price Updated: 98.96530202
+2025-03-09 21:57:18,046 - INFO - [Binance] Mark Price Updated: 98.95000000
+2025-03-09 21:57:18,046 - INFO - [Price Compare] Binance: 98.95000000 | BingX: 99.02000000 | Diff: 0.0707% | Time: 21:57:18.046
+2025-03-09 21:57:21,044 - INFO - [Binance] Mark Price Updated: 98.98814141
+2025-03-09 21:57:21,045 - INFO - [Price Compare] Binance: 98.98814141 | BingX: 99.02000000 | Diff: 0.0322% | Time: 21:57:21.044
+2025-03-09 21:57:24,042 - INFO - [Binance] Mark Price Updated: 98.98557980
+2025-03-09 21:57:24,042 - INFO - [Price Compare] Binance: 98.98557980 | BingX: 99.02000000 | Diff: 0.0348% | Time: 21:57:24.042
+2025-03-09 21:57:24,691 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,691 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,692 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,692 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,692 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,693 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,693 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,693 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,693 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,693 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,698 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,698 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,698 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,698 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:24,699 - INFO - [BingX] Price Updated: 99.10000000
+2025-03-09 21:57:24,699 - INFO - [BingX] Price Updated: 99.08000000
+2025-03-09 21:57:24,729 - INFO - [BingX] Price Updated: 99.07000000
+2025-03-09 21:57:26,174 - INFO - [BingX] Price Updated: 99.14000000
+2025-03-09 21:57:26,174 - INFO - [Price Compare] Binance: 98.98557980 | BingX: 99.14000000 | Diff: 0.1560% | Time: 21:57:26.174
+2025-03-09 21:57:26,175 - INFO - 🔍 SHORT Signal: Binance price (98.98557980) is lower than BingX price (99.14000000) by 0.1560%
+2025-03-09 21:57:26,175 - INFO - 🚀 Attempting to create SHORT position at 99.14000000 on BingX...
+2025-03-09 21:57:26,175 - INFO - Sending order parameters: {'symbol': 'LTC-USDT', 'side': 'SELL', 'positionSide': 'SHORT', 'type': 'MARKET', 'quantity': '0.1', 'timestamp': 1741532246175}
+2025-03-09 21:57:26,394 - ERROR - ❌ API Error: Invalid parameters,The request you constructed does not meet the requirements. Please refer to the sample code in the API documentation to construct your request. (https://bingx-api.github.io/docs/#/en-us/swapV2/introduce) (Code: 80014)
+2025-03-09 21:57:26,394 - ERROR - ❌ Failed to create position: None
+2025-03-09 21:57:26,395 - INFO - [BingX] Price Updated: 99.13000000
+2025-03-09 21:57:26,395 - INFO - [BingX] Price Updated: 99.14000000
+2025-03-09 21:57:27,046 - INFO - [Binance] Mark Price Updated: 99.14334040
+2025-03-09 21:57:27,755 - INFO - [BingX] Price Updated: 99.15000000
+2025-03-09 21:57:27,755 - INFO - [Price Compare] Binance: 99.14334040 | BingX: 99.15000000 | Diff: 0.0067% | Time: 21:57:27.755
+2025-03-09 21:57:27,761 - INFO - [BingX] Price Updated: 99.15000000
+2025-03-09 21:57:27,896 - INFO - [BingX] Price Updated: 99.16000000
+2025-03-09 21:57:30,049 - INFO - [Binance] Mark Price Updated: 99.20000000
+2025-03-09 21:57:30,050 - INFO - [Price Compare] Binance: 99.20000000 | BingX: 99.16000000 | Diff: -0.0403% | Time: 21:57:30.050
+2025-03-09 21:57:32,471 - INFO - [BingX] Price Updated: 99.16000000
+2025-03-09 21:57:32,471 - INFO - [Price Compare] Binance: 99.20000000 | BingX: 99.16000000 | Diff: -0.0403% | Time: 21:57:32.471
+2025-03-09 21:57:33,045 - INFO - [Binance] Mark Price Updated: 99.19000000
+2025-03-09 21:57:36,046 - INFO - [Binance] Mark Price Updated: 99.17000000
+2025-03-09 21:57:36,046 - INFO - [Price Compare] Binance: 99.17000000 | BingX: 99.16000000 | Diff: -0.0101% | Time: 21:57:36.046
+2025-03-09 21:57:39,049 - INFO - [Binance] Mark Price Updated: 99.17306162
+2025-03-09 21:57:39,049 - INFO - [Price Compare] Binance: 99.17306162 | BingX: 99.16000000 | Diff: -0.0132% | Time: 21:57:39.049
+2025-03-09 21:57:40,488 - INFO - [BingX] Price Updated: 99.16000000
+2025-03-09 21:57:40,488 - INFO - [Price Compare] Binance: 99.17306162 | BingX: 99.16000000 | Diff: -0.0132% | Time: 21:57:40.488
+2025-03-09 21:57:42,049 - INFO - [Binance] Mark Price Updated: 99.18124343
+2025-03-09 21:57:42,049 - INFO - [Price Compare] Binance: 99.18124343 | BingX: 99.16000000 | Diff: -0.0214% | Time: 21:57:42.049
+2025-03-09 21:57:43,472 - INFO - [BingX] Price Updated: 99.16000000
+2025-03-09 21:57:43,473 - INFO - [Price Compare] Binance: 99.18124343 | BingX: 99.16000000 | Diff: -0.0214% | Time: 21:57:43.473
+2025-03-09 21:57:45,061 - INFO - [Binance] Mark Price Updated: 99.19461010
+2025-03-09 21:57:45,062 - INFO - [Price Compare] Binance: 99.19461010 | BingX: 99.16000000 | Diff: -0.0349% | Time: 21:57:45.062
+2025-03-09 21:57:45,133 - INFO - [BingX] Price Updated: 99.17000000
+2025-03-09 21:57:46,153 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:57:46,153 - INFO - [Price Compare] Binance: 99.19461010 | BingX: 99.20000000 | Diff: 0.0054% | Time: 21:57:46.153
+2025-03-09 21:57:48,047 - INFO - [Binance] Mark Price Updated: 99.21000000
+2025-03-09 21:57:48,048 - INFO - [Price Compare] Binance: 99.21000000 | BingX: 99.20000000 | Diff: -0.0101% | Time: 21:57:48.048
+2025-03-09 21:57:51,072 - INFO - [Binance] Mark Price Updated: 99.20000000
+2025-03-09 21:57:51,073 - INFO - [Price Compare] Binance: 99.20000000 | BingX: 99.20000000 | Diff: 0.0000% | Time: 21:57:51.073
+2025-03-09 21:57:54,049 - INFO - [Binance] Mark Price Updated: 99.17988788
+2025-03-09 21:57:54,050 - INFO - [Price Compare] Binance: 99.17988788 | BingX: 99.20000000 | Diff: 0.0203% | Time: 21:57:54.049
+2025-03-09 21:57:57,058 - INFO - [Binance] Mark Price Updated: 99.18000000
+2025-03-09 21:57:57,058 - INFO - [Price Compare] Binance: 99.18000000 | BingX: 99.20000000 | Diff: 0.0202% | Time: 21:57:57.058
+2025-03-09 21:57:58,494 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:57:58,495 - INFO - [Price Compare] Binance: 99.18000000 | BingX: 99.20000000 | Diff: 0.0202% | Time: 21:57:58.495
+2025-03-09 21:57:59,000 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:00,081 - INFO - [Binance] Mark Price Updated: 99.17110909
+2025-03-09 21:58:00,081 - INFO - [Price Compare] Binance: 99.17110909 | BingX: 99.20000000 | Diff: 0.0291% | Time: 21:58:00.081
+2025-03-09 21:58:02,479 - INFO - [BingX] Price Updated: 99.18000000
+2025-03-09 21:58:02,479 - INFO - [Price Compare] Binance: 99.17110909 | BingX: 99.18000000 | Diff: 0.0090% | Time: 21:58:02.479
+2025-03-09 21:58:03,062 - INFO - [Binance] Mark Price Updated: 99.13000000
+2025-03-09 21:58:06,116 - INFO - [Binance] Mark Price Updated: 99.10116162
+2025-03-09 21:58:06,117 - INFO - [Price Compare] Binance: 99.10116162 | BingX: 99.18000000 | Diff: 0.0796% | Time: 21:58:06.117
+2025-03-09 21:58:06,481 - INFO - [BingX] Price Updated: 99.16000000
+2025-03-09 21:58:07,988 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:07,988 - INFO - [Price Compare] Binance: 99.10116162 | BingX: 99.20000000 | Diff: 0.0997% | Time: 21:58:07.988
+2025-03-09 21:58:09,003 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:09,003 - INFO - [Price Compare] Binance: 99.10116162 | BingX: 99.20000000 | Diff: 0.0997% | Time: 21:58:09.003
+2025-03-09 21:58:09,018 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:09,048 - INFO - [Binance] Mark Price Updated: 99.17000000
+2025-03-09 21:58:09,480 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:10,063 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:10,064 - INFO - [Price Compare] Binance: 99.17000000 | BingX: 99.20000000 | Diff: 0.0303% | Time: 21:58:10.063
+2025-03-09 21:58:10,500 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:10,524 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:11,013 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:11,022 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:11,039 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:11,488 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:11,488 - INFO - [Price Compare] Binance: 99.17000000 | BingX: 99.20000000 | Diff: 0.0303% | Time: 21:58:11.488
+2025-03-09 21:58:11,495 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:12,045 - INFO - [Binance] Mark Price Updated: 99.19000000
+2025-03-09 21:58:12,415 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:12,482 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:13,014 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:13,015 - INFO - [Price Compare] Binance: 99.19000000 | BingX: 99.20000000 | Diff: 0.0101% | Time: 21:58:13.014
+2025-03-09 21:58:13,029 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:13,992 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:14,021 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:14,021 - INFO - [Price Compare] Binance: 99.19000000 | BingX: 99.20000000 | Diff: 0.0101% | Time: 21:58:14.021
+2025-03-09 21:58:14,483 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:15,082 - INFO - [Binance] Mark Price Updated: 99.18000000
+2025-03-09 21:58:15,082 - INFO - [Price Compare] Binance: 99.18000000 | BingX: 99.20000000 | Diff: 0.0202% | Time: 21:58:15.082
+2025-03-09 21:58:15,083 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:15,489 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:16,498 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:16,498 - INFO - [Price Compare] Binance: 99.18000000 | BingX: 99.20000000 | Diff: 0.0202% | Time: 21:58:16.498
+2025-03-09 21:58:17,479 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:17,505 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:17,506 - INFO - [Price Compare] Binance: 99.18000000 | BingX: 99.20000000 | Diff: 0.0202% | Time: 21:58:17.506
+2025-03-09 21:58:17,521 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:17,985 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:18,053 - INFO - [Binance] Mark Price Updated: 99.16309394
+2025-03-09 21:58:18,477 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:18,497 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:19,480 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:19,480 - INFO - [Price Compare] Binance: 99.16309394 | BingX: 99.20000000 | Diff: 0.0372% | Time: 21:58:19.480
+2025-03-09 21:58:19,505 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:19,515 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:19,515 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:19,515 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:20,489 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:20,489 - INFO - [Price Compare] Binance: 99.16309394 | BingX: 99.20000000 | Diff: 0.0372% | Time: 21:58:20.489
+2025-03-09 21:58:21,057 - INFO - [Binance] Mark Price Updated: 99.16000000
+2025-03-09 21:58:21,478 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:22,045 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:22,046 - INFO - [Price Compare] Binance: 99.16000000 | BingX: 99.20000000 | Diff: 0.0403% | Time: 21:58:22.045
+2025-03-09 21:58:22,046 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:22,980 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:22,993 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:23,487 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:23,487 - INFO - [Price Compare] Binance: 99.16000000 | BingX: 99.20000000 | Diff: 0.0403% | Time: 21:58:23.487
+2025-03-09 21:58:23,491 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:24,049 - INFO - [Binance] Mark Price Updated: 99.15000000
+2025-03-09 21:58:24,479 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:24,492 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:24,493 - INFO - [Price Compare] Binance: 99.15000000 | BingX: 99.19000000 | Diff: 0.0403% | Time: 21:58:24.493
+2025-03-09 21:58:24,503 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:24,985 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:25,508 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:25,508 - INFO - [Price Compare] Binance: 99.15000000 | BingX: 99.19000000 | Diff: 0.0403% | Time: 21:58:25.508
+2025-03-09 21:58:25,535 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:26,486 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:26,518 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:26,518 - INFO - [Price Compare] Binance: 99.15000000 | BingX: 99.19000000 | Diff: 0.0403% | Time: 21:58:26.518
+2025-03-09 21:58:26,540 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:27,046 - INFO - [Binance] Mark Price Updated: 99.13000000
+2025-03-09 21:58:27,487 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:27,503 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:27,518 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:29,488 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:29,488 - INFO - [Price Compare] Binance: 99.13000000 | BingX: 99.19000000 | Diff: 0.0605% | Time: 21:58:29.488
+2025-03-09 21:58:29,502 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:29,527 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:29,527 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:30,051 - INFO - [Binance] Mark Price Updated: 99.13000000
+2025-03-09 21:58:30,480 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:31,480 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:31,480 - INFO - [Price Compare] Binance: 99.13000000 | BingX: 99.19000000 | Diff: 0.0605% | Time: 21:58:31.480
+2025-03-09 21:58:31,489 - INFO - [BingX] Price Updated: 99.17000000
+2025-03-09 21:58:32,025 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:32,034 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:32,059 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:32,482 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:32,482 - INFO - [Price Compare] Binance: 99.13000000 | BingX: 99.19000000 | Diff: 0.0605% | Time: 21:58:32.482
+2025-03-09 21:58:32,515 - INFO - [BingX] Price Updated: 99.17000000
+2025-03-09 21:58:32,528 - INFO - [BingX] Price Updated: 99.17000000
+2025-03-09 21:58:32,528 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:33,010 - INFO - [BingX] Price Updated: 99.17000000
+2025-03-09 21:58:33,023 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:33,048 - INFO - [Binance] Mark Price Updated: 99.12000000
+2025-03-09 21:58:33,489 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:33,490 - INFO - [Price Compare] Binance: 99.12000000 | BingX: 99.19000000 | Diff: 0.0706% | Time: 21:58:33.489
+2025-03-09 21:58:33,506 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:34,097 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:34,483 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:34,494 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:34,494 - INFO - [Price Compare] Binance: 99.12000000 | BingX: 99.19000000 | Diff: 0.0706% | Time: 21:58:34.494
+2025-03-09 21:58:35,502 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:35,502 - INFO - [Price Compare] Binance: 99.12000000 | BingX: 99.19000000 | Diff: 0.0706% | Time: 21:58:35.502
+2025-03-09 21:58:36,130 - INFO - [Binance] Mark Price Updated: 99.15000000
+2025-03-09 21:58:36,495 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:36,996 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:36,996 - INFO - [Price Compare] Binance: 99.15000000 | BingX: 99.19000000 | Diff: 0.0403% | Time: 21:58:36.996
+2025-03-09 21:58:37,479 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:37,985 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:38,488 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:38,488 - INFO - [Price Compare] Binance: 99.15000000 | BingX: 99.19000000 | Diff: 0.0403% | Time: 21:58:38.488
+2025-03-09 21:58:38,506 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:38,513 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:38,514 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:39,050 - INFO - [Binance] Mark Price Updated: 99.14000000
+2025-03-09 21:58:39,486 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:39,997 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:39,997 - INFO - [Price Compare] Binance: 99.14000000 | BingX: 99.19000000 | Diff: 0.0504% | Time: 21:58:39.997
+2025-03-09 21:58:40,031 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:40,493 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:40,990 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:41,013 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:41,013 - INFO - [Price Compare] Binance: 99.14000000 | BingX: 99.19000000 | Diff: 0.0504% | Time: 21:58:41.013
+2025-03-09 21:58:41,496 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:42,056 - INFO - [Binance] Mark Price Updated: 99.15220404
+2025-03-09 21:58:42,056 - INFO - [Price Compare] Binance: 99.15220404 | BingX: 99.19000000 | Diff: 0.0381% | Time: 21:58:42.056
+2025-03-09 21:58:42,493 - INFO - [BingX] Price Updated: 99.19000000
+2025-03-09 21:58:43,494 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:43,494 - INFO - [Price Compare] Binance: 99.15220404 | BingX: 99.20000000 | Diff: 0.0482% | Time: 21:58:43.494
+2025-03-09 21:58:44,985 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:44,986 - INFO - [Price Compare] Binance: 99.15220404 | BingX: 99.20000000 | Diff: 0.0482% | Time: 21:58:44.986
+2025-03-09 21:58:45,025 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:45,051 - INFO - [Binance] Mark Price Updated: 99.17349798
+2025-03-09 21:58:45,530 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:45,544 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:46,486 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:46,487 - INFO - [Price Compare] Binance: 99.17349798 | BingX: 99.20000000 | Diff: 0.0267% | Time: 21:58:46.486
+2025-03-09 21:58:46,499 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:47,482 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:47,986 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:47,986 - INFO - [Price Compare] Binance: 99.17349798 | BingX: 99.20000000 | Diff: 0.0267% | Time: 21:58:47.986
+2025-03-09 21:58:47,994 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:48,051 - INFO - [Binance] Mark Price Updated: 99.19001313
+2025-03-09 21:58:49,079 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:49,079 - INFO - [Price Compare] Binance: 99.19001313 | BingX: 99.20000000 | Diff: 0.0101% | Time: 21:58:49.079
+2025-03-09 21:58:49,488 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:50,104 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:50,104 - INFO - [Price Compare] Binance: 99.19001313 | BingX: 99.20000000 | Diff: 0.0101% | Time: 21:58:50.104
+2025-03-09 21:58:50,494 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:51,077 - INFO - [Binance] Mark Price Updated: 99.20185152
+2025-03-09 21:58:51,489 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:51,489 - INFO - [Price Compare] Binance: 99.20185152 | BingX: 99.20000000 | Diff: -0.0019% | Time: 21:58:51.489
+2025-03-09 21:58:51,993 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:52,486 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:52,507 - INFO - [BingX] Price Updated: 99.20000000
+2025-03-09 21:58:52,507 - INFO - [Price Compare] Binance: 99.20185152 | BingX: 99.20000000 | Diff: -0.0019% | Time: 21:58:52.507
+2025-03-09 21:58:52,773 - INFO - [BingX] Price Updated: 99.21000000
+2025-03-09 21:58:52,787 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:52,787 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:52,787 - INFO - [BingX] Price Updated: 99.21000000
+2025-03-09 21:58:52,788 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:53,031 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:53,040 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:53,041 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:53,998 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:53,999 - INFO - [Price Compare] Binance: 99.20185152 | BingX: 99.22000000 | Diff: 0.0183% | Time: 21:58:53.999
+2025-03-09 21:58:54,031 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:54,050 - INFO - [Binance] Mark Price Updated: 99.25000000
+2025-03-09 21:58:54,985 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:55,492 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:55,492 - INFO - [Price Compare] Binance: 99.25000000 | BingX: 99.22000000 | Diff: -0.0302% | Time: 21:58:55.492
+2025-03-09 21:58:55,507 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:55,533 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:55,986 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:56,012 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:56,491 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:56,511 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:56,511 - INFO - [Price Compare] Binance: 99.25000000 | BingX: 99.22000000 | Diff: -0.0302% | Time: 21:58:56.511
+2025-03-09 21:58:56,993 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:57,004 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:57,023 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:57,051 - INFO - [Binance] Mark Price Updated: 99.25165556
+2025-03-09 21:58:57,990 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:58,001 - INFO - [Price Compare] Binance: 99.25165556 | BingX: 99.22000000 | Diff: -0.0319% | Time: 21:58:58.000
+2025-03-09 21:58:58,490 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:59,491 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:58:59,491 - INFO - [Price Compare] Binance: 99.25165556 | BingX: 99.22000000 | Diff: -0.0319% | Time: 21:58:59.491
+2025-03-09 21:58:59,509 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:59:00,036 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:59:00,037 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:59:00,037 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:59:00,050 - INFO - [Binance] Mark Price Updated: 99.26000000
+2025-03-09 21:59:00,502 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:59:00,502 - INFO - [Price Compare] Binance: 99.26000000 | BingX: 99.22000000 | Diff: -0.0403% | Time: 21:59:00.502
+2025-03-09 21:59:00,533 - INFO - [BingX] Price Updated: 99.22000000
+2025-03-09 21:59:01,048 - INFO - [BingX] Price Updated: 99.24000000
+2025-03-09 21:59:01,049 - INFO - [BingX] Price Updated: 99.23000000
+2025-03-09 21:59:01,052 - INFO - [BingX] Price Updated: 99.28000000
+2025-03-09 21:59:01,053 - INFO - [BingX] Price Updated: 99.28000000
+2025-03-09 21:59:01,053 - INFO - [BingX] Price Updated: 99.26000000
+2025-03-09 21:59:01,053 - INFO - [BingX] Price Updated: 99.29000000
+2025-03-09 21:59:01,053 - INFO - [BingX] Price Updated: 99.25000000
+2025-03-09 21:59:01,053 - INFO - [BingX] Price Updated: 99.29000000
+2025-03-09 21:59:01,250 - INFO - [BingX] Price Updated: 99.31000000
+2025-03-09 21:59:01,250 - INFO - [BingX] Price Updated: 99.31000000
+2025-03-09 21:59:02,086 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:02,086 - INFO - [Price Compare] Binance: 99.26000000 | BingX: 99.33000000 | Diff: 0.0705% | Time: 21:59:02.086
+2025-03-09 21:59:02,087 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:02,087 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:02,088 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:02,088 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:02,996 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:03,023 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:03,049 - INFO - [Binance] Mark Price Updated: 99.31994747
+2025-03-09 21:59:04,497 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:04,497 - INFO - [Price Compare] Binance: 99.31994747 | BingX: 99.33000000 | Diff: 0.0101% | Time: 21:59:04.497
+2025-03-09 21:59:04,497 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:05,554 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:05,554 - INFO - [Price Compare] Binance: 99.31994747 | BingX: 99.33000000 | Diff: 0.0101% | Time: 21:59:05.554
+2025-03-09 21:59:05,990 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:06,053 - INFO - [Binance] Mark Price Updated: 99.31000000
+2025-03-09 21:59:06,489 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:07,496 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:07,496 - INFO - [Price Compare] Binance: 99.31000000 | BingX: 99.33000000 | Diff: 0.0201% | Time: 21:59:07.496
+2025-03-09 21:59:08,072 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:08,073 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:08,073 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:08,487 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:08,493 - INFO - [BingX] Price Updated: 99.33000000
+2025-03-09 21:59:08,942 - INFO - [BingX] Price Updated: 99.34000000
+2025-03-09 21:59:08,943 - INFO - [Price Compare] Binance: 99.31000000 | BingX: 99.34000000 | Diff: 0.0302% | Time: 21:59:08.943
+2025-03-09 21:59:08,949 - INFO - [BingX] Price Updated: 99.37000000
+2025-03-09 21:59:08,951 - INFO - [BingX] Price Updated: 99.40000000
+2025-03-09 21:59:09,050 - INFO - [Binance] Mark Price Updated: 99.31397806
+2025-03-09 21:59:10,003 - INFO - [BingX] Price Updated: 99.40000000
+2025-03-09 21:59:10,003 - INFO - [Price Compare] Binance: 99.31397806 | BingX: 99.40000000 | Diff: 0.0866% | Time: 21:59:10.003
+2025-03-09 21:59:10,003 - INFO - [BingX] Price Updated: 99.40000000
+2025-03-09 21:59:10,501 - INFO - [BingX] Price Updated: 99.40000000
+2025-03-09 21:59:10,526 - INFO - [BingX] Price Updated: 99.40000000
+2025-03-09 21:59:11,996 - INFO - [BingX] Price Updated: 99.40000000
+2025-03-09 21:59:11,997 - INFO - [Price Compare] Binance: 99.31397806 | BingX: 99.40000000 | Diff: 0.0866% | Time: 21:59:11.997
+2025-03-09 21:59:12,064 - INFO - [Binance] Mark Price Updated: 99.38000000
+2025-03-09 21:59:12,495 - INFO - [BingX] Price Updated: 99.40000000
+2025-03-09 21:59:15,175 - ERROR - ❌ Error verifying API permissions: 'TradingBot' object has no attribute 'send_signed_request'
+2025-03-09 21:59:15,175 - WARNING - ⚠️ API verification failed at startup
+2025-03-09 21:59:30,622 - INFO - Testing order creation...
+2025-03-09 21:59:30,623 - ERROR - Error generating signature: name 'sha256' is not defined
+2025-03-09 21:59:31,038 - INFO - Test Order Response: {"code":100412,"msg":"Null signature, please refer to the API docs https://bingx-api.github.io/docs/","timestamp":1741532370978}
+2025-03-09 22:02:18,015 - ERROR - ❌ Error verifying API permissions: 'TradingBot' object has no attribute 'send_signed_request'
+2025-03-09 22:02:18,016 - WARNING - ⚠️ API verification failed at startup
+2025-03-09 22:02:24,002 - INFO - Testing order creation...
+2025-03-09 22:02:24,003 - ERROR - Error generating signature: name 'sha256' is not defined
+2025-03-09 22:02:24,184 - INFO - Test Order Response: {"code":100412,"msg":"Null signature, please refer to the API docs https://bingx-api.github.io/docs/","timestamp":1741532544152}

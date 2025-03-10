@@ -1,0 +1,122 @@
+2025-03-10 15:15:24,735 - ERROR - ❌ API verification failed: {'code': 100400, 'msg': 'this api is not exist,please refer to the API docs https://bingx-api.github.io/docs', 'timestamp': 1741594528751}
+2025-03-10 15:15:24,736 - WARNING - ⚠️ API verification failed at startup
+2025-03-10 15:15:27,275 - INFO - Testing order creation...
+2025-03-10 15:15:27,656 - INFO - Test Order Response: {'code': 0, 'msg': '', 'data': {'order': {'orderId': 1899011220738105344, 'orderID': '1899011220738105344', 'symbol': 'LTC-USDT', 'positionSide': 'LONG', 'side': 'BUY', 'type': 'MARKET', 'price': 0, 'quantity': 0.1, 'stopPrice': 0, 'workingType': 'MARK_PRICE', 'clientOrderID': '', 'clientOrderId': '', 'timeInForce': 'GTC', 'priceRate': 0, 'stopLoss': '', 'takeProfit': '', 'reduceOnly': False, 'activationPrice': 0, 'closePosition': '', 'stopGuaranteed': '', 'status': 'FILLED', 'avgPrice': '95.98'}}}
+2025-03-10 15:15:34,054 - INFO - 🔹 Starting Trading Bot...
+2025-03-10 15:15:34,428 - INFO - Websocket connected
+2025-03-10 15:15:34,429 - INFO - [Binance] WebSocket Connected
+2025-03-10 15:15:35,013 - INFO - [Binance] Mark Price Updated: 95.94148384
+2025-03-10 15:15:35,123 - INFO - Websocket connected
+2025-03-10 15:15:35,123 - INFO - [BingX] WebSocket Connected
+2025-03-10 15:15:38,011 - INFO - [Binance] Mark Price Updated: 95.93845354
+2025-03-10 15:15:40,927 - INFO - [BingX] Price Updated: 95.97000000
+2025-03-10 15:15:40,927 - INFO - [Price Compare] Binance: 95.93845354 | BingX: 95.97000000 | Diff: 0.0329% | Time: 15:15:40.927
+2025-03-10 15:15:41,007 - INFO - [Binance] Mark Price Updated: 95.93856869
+2025-03-10 15:15:44,119 - INFO - [Binance] Mark Price Updated: 95.93250808
+2025-03-10 15:15:44,119 - INFO - [Price Compare] Binance: 95.93250808 | BingX: 95.97000000 | Diff: 0.0391% | Time: 15:15:44.119
+2025-03-10 15:15:47,199 - INFO - [Binance] Mark Price Updated: 95.90313232
+2025-03-10 15:15:47,200 - INFO - [Price Compare] Binance: 95.90313232 | BingX: 95.97000000 | Diff: 0.0697% | Time: 15:15:47.200
+2025-03-10 15:15:50,012 - INFO - [Binance] Mark Price Updated: 95.90313232
+2025-03-10 15:15:50,012 - INFO - [Price Compare] Binance: 95.90313232 | BingX: 95.97000000 | Diff: 0.0697% | Time: 15:15:50.012
+2025-03-10 15:15:53,008 - INFO - [Binance] Mark Price Updated: 95.89598283
+2025-03-10 15:15:53,009 - INFO - [Price Compare] Binance: 95.89598283 | BingX: 95.97000000 | Diff: 0.0772% | Time: 15:15:53.009
+2025-03-10 15:15:55,435 - INFO - [BingX] Price Updated: 95.92000000
+2025-03-10 15:15:55,435 - INFO - [Price Compare] Binance: 95.89598283 | BingX: 95.92000000 | Diff: 0.0250% | Time: 15:15:55.435
+2025-03-10 15:15:56,048 - INFO - [Binance] Mark Price Updated: 95.88386162
+2025-03-10 15:15:58,440 - INFO - [BingX] Price Updated: 95.92000000
+2025-03-10 15:15:58,441 - INFO - [Price Compare] Binance: 95.88386162 | BingX: 95.92000000 | Diff: 0.0377% | Time: 15:15:58.441
+2025-03-10 15:15:59,009 - INFO - [Binance] Mark Price Updated: 95.89325601
+2025-03-10 15:16:02,006 - INFO - [Binance] Mark Price Updated: 95.89652874
+2025-03-10 15:16:02,007 - INFO - [Price Compare] Binance: 95.89652874 | BingX: 95.92000000 | Diff: 0.0245% | Time: 15:16:02.007
+2025-03-10 15:16:03,978 - INFO - [BingX] Price Updated: 95.91000000
+2025-03-10 15:16:03,979 - INFO - [Price Compare] Binance: 95.89652874 | BingX: 95.91000000 | Diff: 0.0140% | Time: 15:16:03.979
+2025-03-10 15:16:03,979 - INFO - [BingX] Price Updated: 95.89000000
+2025-03-10 15:16:05,007 - INFO - [Binance] Mark Price Updated: 95.89764848
+2025-03-10 15:16:05,008 - INFO - [Price Compare] Binance: 95.89764848 | BingX: 95.89000000 | Diff: -0.0080% | Time: 15:16:05.008
+2025-03-10 15:16:06,427 - INFO - [BingX] Price Updated: 95.92000000
+2025-03-10 15:16:06,429 - INFO - [Price Compare] Binance: 95.89764848 | BingX: 95.92000000 | Diff: 0.0233% | Time: 15:16:06.428
+2025-03-10 15:16:08,010 - INFO - [Binance] Mark Price Updated: 95.86083131
+2025-03-10 15:16:08,011 - INFO - [Price Compare] Binance: 95.86083131 | BingX: 95.92000000 | Diff: 0.0617% | Time: 15:16:08.011
+2025-03-10 15:16:11,014 - INFO - [Binance] Mark Price Updated: 95.85537677
+2025-03-10 15:16:11,015 - INFO - [Price Compare] Binance: 95.85537677 | BingX: 95.92000000 | Diff: 0.0674% | Time: 15:16:11.015
+2025-03-10 15:16:13,431 - INFO - [BingX] Price Updated: 95.86000000
+2025-03-10 15:16:13,431 - INFO - [Price Compare] Binance: 95.85537677 | BingX: 95.86000000 | Diff: 0.0048% | Time: 15:16:13.431
+2025-03-10 15:16:14,007 - INFO - [Binance] Mark Price Updated: 95.85275152
+2025-03-10 15:16:14,439 - INFO - [BingX] Price Updated: 95.86000000
+2025-03-10 15:16:14,440 - INFO - [Price Compare] Binance: 95.85275152 | BingX: 95.86000000 | Diff: 0.0076% | Time: 15:16:14.440
+2025-03-10 15:16:15,437 - INFO - [BingX] Price Updated: 95.86000000
+2025-03-10 15:16:17,006 - INFO - [Binance] Mark Price Updated: 95.84429697
+2025-03-10 15:16:17,006 - INFO - [Price Compare] Binance: 95.84429697 | BingX: 95.86000000 | Diff: 0.0164% | Time: 15:16:17.006
+2025-03-10 15:16:20,112 - INFO - [Binance] Mark Price Updated: 95.84553333
+2025-03-10 15:16:20,112 - INFO - [Price Compare] Binance: 95.84553333 | BingX: 95.86000000 | Diff: 0.0151% | Time: 15:16:20.112
+2025-03-10 15:16:23,080 - INFO - [Binance] Mark Price Updated: 95.90000000
+2025-03-10 15:16:23,080 - INFO - [Price Compare] Binance: 95.90000000 | BingX: 95.86000000 | Diff: -0.0417% | Time: 15:16:23.080
+2025-03-10 15:16:26,051 - INFO - [Binance] Mark Price Updated: 95.91000000
+2025-03-10 15:16:26,052 - INFO - [Price Compare] Binance: 95.91000000 | BingX: 95.86000000 | Diff: -0.0521% | Time: 15:16:26.052
+2025-03-10 15:16:29,009 - INFO - [Binance] Mark Price Updated: 95.88168586
+2025-03-10 15:16:29,009 - INFO - [Price Compare] Binance: 95.88168586 | BingX: 95.86000000 | Diff: -0.0226% | Time: 15:16:29.009
+2025-03-10 15:16:32,003 - INFO - [Binance] Mark Price Updated: 95.84312121
+2025-03-10 15:16:32,004 - INFO - [Price Compare] Binance: 95.84312121 | BingX: 95.86000000 | Diff: 0.0176% | Time: 15:16:32.004
+2025-03-10 15:16:34,939 - INFO - [BingX] Price Updated: 95.86000000
+2025-03-10 15:16:34,939 - INFO - [Price Compare] Binance: 95.84312121 | BingX: 95.86000000 | Diff: 0.0176% | Time: 15:16:34.939
+2025-03-10 15:16:35,009 - INFO - [Binance] Mark Price Updated: 95.83584848
+2025-03-10 15:16:36,427 - INFO - [BingX] Price Updated: 95.83000000
+2025-03-10 15:16:36,427 - INFO - [Price Compare] Binance: 95.83584848 | BingX: 95.83000000 | Diff: -0.0061% | Time: 15:16:36.427
+2025-03-10 15:16:38,013 - INFO - [Binance] Mark Price Updated: 95.81370219
+2025-03-10 15:16:38,013 - INFO - [Price Compare] Binance: 95.81370219 | BingX: 95.83000000 | Diff: 0.0170% | Time: 15:16:38.013
+2025-03-10 15:16:40,794 - INFO - [BingX] Price Updated: 95.83000000
+2025-03-10 15:16:40,795 - INFO - [Price Compare] Binance: 95.81370219 | BingX: 95.83000000 | Diff: 0.0170% | Time: 15:16:40.795
+2025-03-10 15:16:40,950 - INFO - [BingX] Price Updated: 95.85000000
+2025-03-10 15:16:41,009 - INFO - [Binance] Mark Price Updated: 95.81552038
+2025-03-10 15:16:42,996 - INFO - [BingX] Price Updated: 95.87000000
+2025-03-10 15:16:42,997 - INFO - [Price Compare] Binance: 95.81552038 | BingX: 95.87000000 | Diff: 0.0569% | Time: 15:16:42.997
+2025-03-10 15:16:43,005 - INFO - [BingX] Price Updated: 95.88000000
+2025-03-10 15:16:44,011 - INFO - [Binance] Mark Price Updated: 95.84000000
+2025-03-10 15:16:44,011 - INFO - [Price Compare] Binance: 95.84000000 | BingX: 95.88000000 | Diff: 0.0417% | Time: 15:16:44.011
+2025-03-10 15:16:45,073 - INFO - [BingX] Price Updated: 95.88000000
+2025-03-10 15:16:45,074 - INFO - [Price Compare] Binance: 95.84000000 | BingX: 95.88000000 | Diff: 0.0417% | Time: 15:16:45.074
+2025-03-10 15:16:47,005 - INFO - [Binance] Mark Price Updated: 95.85000000
+2025-03-10 15:16:47,005 - INFO - [Price Compare] Binance: 95.85000000 | BingX: 95.88000000 | Diff: 0.0313% | Time: 15:16:47.005
+2025-03-10 15:16:50,008 - INFO - [Binance] Mark Price Updated: 95.82960101
+2025-03-10 15:16:50,008 - INFO - [Price Compare] Binance: 95.82960101 | BingX: 95.88000000 | Diff: 0.0526% | Time: 15:16:50.008
+2025-03-10 15:16:50,432 - INFO - [BingX] Price Updated: 95.85000000
+2025-03-10 15:16:53,011 - INFO - [Binance] Mark Price Updated: 95.82354040
+2025-03-10 15:16:53,011 - INFO - [Price Compare] Binance: 95.82354040 | BingX: 95.85000000 | Diff: 0.0276% | Time: 15:16:53.011
+2025-03-10 15:16:56,008 - INFO - [Binance] Mark Price Updated: 95.77059495
+2025-03-10 15:16:56,009 - INFO - [Price Compare] Binance: 95.77059495 | BingX: 95.85000000 | Diff: 0.0829% | Time: 15:16:56.009
+2025-03-10 15:16:59,011 - INFO - [Binance] Mark Price Updated: 95.75000000
+2025-03-10 15:16:59,011 - INFO - [Price Compare] Binance: 95.75000000 | BingX: 95.85000000 | Diff: 0.1044% | Time: 15:16:59.011
+2025-03-10 15:16:59,011 - INFO - 🔍 SHORT Signal: Binance price (95.75000000) is lower than BingX price (95.85000000) by 0.1044%
+2025-03-10 15:16:59,392 - INFO - ✅ Order Successfully Created:
+   Order ID: 1899011605536137216
+   Side: SHORT
+   Quantity: 0.1
+   Status: FILLED
+2025-03-10 15:17:02,007 - INFO - [Binance] Mark Price Updated: 95.79561313
+2025-03-10 15:17:02,007 - INFO - [Price Compare] Binance: 95.79561313 | BingX: 95.85000000 | Diff: 0.0568% | Time: 15:17:02.007
+2025-03-10 15:17:02,936 - INFO - [BingX] Price Updated: 95.80000000
+2025-03-10 15:17:05,065 - INFO - [Binance] Mark Price Updated: 95.81000000
+2025-03-10 15:17:05,065 - INFO - [Price Compare] Binance: 95.81000000 | BingX: 95.80000000 | Diff: -0.0104% | Time: 15:17:05.065
+2025-03-10 15:17:08,005 - INFO - [Binance] Mark Price Updated: 95.80000000
+2025-03-10 15:17:08,005 - INFO - [Price Compare] Binance: 95.80000000 | BingX: 95.80000000 | Diff: 0.0000% | Time: 15:17:08.005
+2025-03-10 15:17:11,009 - INFO - [Binance] Mark Price Updated: 95.81548889
+2025-03-10 15:17:11,011 - INFO - [Price Compare] Binance: 95.81548889 | BingX: 95.80000000 | Diff: -0.0162% | Time: 15:17:11.011
+2025-03-10 15:17:11,432 - INFO - [BingX] Price Updated: 95.86000000
+2025-03-10 15:17:11,498 - INFO - 
+🔻 Stopping Trading Bot...
+2025-03-10 15:17:11,934 - INFO - [BingX] Price Updated: 95.86000000
+2025-03-10 15:17:12,503 - INFO - ✅ Stopped.
+2025-03-10 15:17:14,013 - INFO - [Binance] Mark Price Updated: 95.81427677
+2025-03-10 15:17:14,014 - INFO - [Price Compare] Binance: 95.81427677 | BingX: 95.86000000 | Diff: 0.0477% | Time: 15:17:14.014
+2025-03-10 15:17:17,046 - INFO - [Binance] Mark Price Updated: 95.85000000
+2025-03-10 15:17:17,046 - INFO - [Price Compare] Binance: 95.85000000 | BingX: 95.86000000 | Diff: 0.0104% | Time: 15:17:17.046
+2025-03-10 15:22:12,822 - ERROR - ❌ API verification failed: {'code': 100400, 'msg': 'this api is not exist,please refer to the API docs https://bingx-api.github.io/docs', 'timestamp': 1741594936865}
+2025-03-10 15:22:12,823 - WARNING - ⚠️ API verification failed at startup
+2025-03-10 15:24:10,825 - INFO - Account Balance Response: {"code":100421,"msg":"Null timestamp or timestamp mismatch, try to  run our sample code  from the link https://bingx-api.github.io/docs/#/en-us/spot/account-api.html#Query%20Assets","timestamp":1741595054858}
+2025-03-10 15:24:10,826 - ERROR - ❌ API verification failed: {'code': 100421, 'msg': 'Null timestamp or timestamp mismatch, try to  run our sample code  from the link https://bingx-api.github.io/docs/#/en-us/spot/account-api.html#Query%20Assets', 'timestamp': 1741595054858}
+2025-03-10 15:24:10,826 - WARNING - ⚠️ API verification failed at startup
+2025-03-10 15:27:18,235 - INFO - Account Balance Response: {"code":0,"msg":"","data":[{"userId":"1413483386675519492","asset":"USDT","balance":"47.4544","equity":"47.4544","unrealizedProfit":"0.0000","realisedProfit":"0","availableMargin":"47.4544","usedMargin":"0.0000","freezedMargin":"0.0000","shortUid":"30345404"},{"userId":"1413483386675519492","asset":"USDC","balance":"0.0000","equity":"0.0000","unrealizedProfit":"0.0000","realisedProfit":"0","availableMargin":"0.0000","usedMargin":"0.0000","freezedMargin":"0.0000","shortUid":"30345404"}]}
+2025-03-10 15:27:18,236 - INFO - ✅ API permissions verified
+2025-03-10 15:27:18,237 - INFO - Account Balance: [{'userId': '1413483386675519492', 'asset': 'USDT', 'balance': '47.4544', 'equity': '47.4544', 'unrealizedProfit': '0.0000', 'realisedProfit': '0', 'availableMargin': '47.4544', 'usedMargin': '0.0000', 'freezedMargin': '0.0000', 'shortUid': '30345404'}, {'userId': '1413483386675519492', 'asset': 'USDC', 'balance': '0.0000', 'equity': '0.0000', 'unrealizedProfit': '0.0000', 'realisedProfit': '0', 'availableMargin': '0.0000', 'usedMargin': '0.0000', 'freezedMargin': '0.0000', 'shortUid': '30345404'}]
+2025-03-10 15:28:21,692 - INFO - Testing order creation...
+2025-03-10 15:28:21,887 - INFO - Test Order Response: {'code': 0, 'msg': '', 'data': {'order': {'orderId': 8622281419878207331, 'orderID': '', 'symbol': 'LTC-USDT', 'positionSide': 'LONG', 'side': 'BUY', 'type': 'MARKET', 'price': 0, 'quantity': 0.1, 'stopPrice': 0, 'workingType': '', 'clientOrderID': '', 'clientOrderId': '', 'timeInForce': '', 'priceRate': 0, 'stopLoss': '', 'takeProfit': '', 'reduceOnly': False, 'activationPrice': 0, 'closePosition': '', 'stopGuaranteed': '', 'status': '', 'avgPrice': ''}}}
