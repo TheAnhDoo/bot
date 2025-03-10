@@ -183,15 +183,4 @@ The bot includes comprehensive error handling for:
    - Implements proper authentication
    - Handles connection errors gracefully
 
-## Disclaimer
 
-This bot is for educational purposes only. Use at your own risk. Always:
-1. Test with small amounts first
-2. Monitor the bot's performance
-3. Understand the trading strategy
-4. Be aware of market risks
-5. Keep your API keys secure
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
